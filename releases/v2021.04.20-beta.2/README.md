@@ -5,7 +5,7 @@
 
 ### [v13.0.0-beta.2](https://github.com/voyagermesh/voyager/releases/tag/v13.0.0-beta.2)
 
-- [33484311](https://github.com/voyagermesh/voyager/commit/33484311) Fix build
+- [4ae3aa3f](https://github.com/voyagermesh/voyager/commit/4ae3aa3f) Fix build
 - [ae95cdb8](https://github.com/voyagermesh/voyager/commit/ae95cdb8) Build voyager binary before building haproxy image
 - [8531ae0e](https://github.com/voyagermesh/voyager/commit/8531ae0e) Fix socklog download url
 - [c2f9a803](https://github.com/voyagermesh/voyager/commit/c2f9a803) Publish images to GH registry
