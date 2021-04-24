@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2021.04.20-beta.2",
-  "release_date": "2021-04-24T20:52:37.845146956Z",
+  "release_date": "2021-04-24T21:14:05.4338043Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2021.04.20-beta.2",
   "kubernetes_version": "1.14+",
@@ -12,6 +12,14 @@
         {
           "tag": "v13.0.0-beta.2",
           "commits": [
+            {
+              "SHA": "8531ae0e",
+              "Subject": "Fix socklog download url"
+            },
+            {
+              "SHA": "c2f9a803",
+              "Subject": "Publish images to GH registry"
+            },
             {
               "SHA": "c2b1a5ce",
               "Subject": "Add license verifier (#1583)"
