@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2021.04.20-beta.2",
-  "release_date": "2021-04-24T21:49:45.380958355Z",
+  "release_date": "2021-04-24T22:09:02.053429516Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2021.04.20-beta.2",
   "kubernetes_version": "1.14+",
@@ -12,6 +12,10 @@
         {
           "tag": "v13.0.0-beta.2",
           "commits": [
+            {
+              "SHA": "33484311",
+              "Subject": "Fix build"
+            },
             {
               "SHA": "ae95cdb8",
               "Subject": "Build voyager binary before building haproxy image"
