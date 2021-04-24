@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2021.04.20-beta.2",
-  "release_date": "2021-04-24T22:45:37.986245605Z",
+  "release_date": "2021-04-24T23:14:46.30489919Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2021.04.20-beta.2",
   "kubernetes_version": "1.14+",
@@ -12,6 +12,10 @@
         {
           "tag": "v13.0.0-beta.2",
           "commits": [
+            {
+              "SHA": "404a6bcd",
+              "Subject": "Update Dockerfile"
+            },
             {
               "SHA": "4ae3aa3f",
               "Subject": "Fix build"
