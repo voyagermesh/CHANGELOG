@@ -1,6 +1,25 @@
 # Voyager v2021.04.20-beta.2 (2021-04-25)
 
 
+## [voyagermesh/docs](https://github.com/voyagermesh/docs)
+
+### [v2021.04.20-beta.2](https://github.com/voyagermesh/docs/releases/tag/v2021.04.20-beta.2)
+
+- [7fe5644](https://github.com/voyagermesh/docs/commit/7fe5644) Prepare for release v2021.04.20-beta.2 (#10)
+- [da68a6f](https://github.com/voyagermesh/docs/commit/da68a6f) Document how to issue license (#9)
+- [b8bafb4](https://github.com/voyagermesh/docs/commit/b8bafb4) Enable preview mode (#8)
+- [be8cca7](https://github.com/voyagermesh/docs/commit/be8cca7) kubectl run is deprecated and is being removed (#7)
+- [f10ce89](https://github.com/voyagermesh/docs/commit/f10ce89) Update repository config (#5)
+- [2be974f](https://github.com/voyagermesh/docs/commit/2be974f) Update links (#4)
+- [7d08a26](https://github.com/voyagermesh/docs/commit/7d08a26) Update ci.yml
+- [d7b35a2](https://github.com/voyagermesh/docs/commit/d7b35a2) Add script to open pr
+- [689b461](https://github.com/voyagermesh/docs/commit/689b461) Update update-release-tracker.sh
+- [fa1e718](https://github.com/voyagermesh/docs/commit/fa1e718) Update update-release-tracker.sh
+- [35e3737](https://github.com/voyagermesh/docs/commit/35e3737) Add script to update release tracker on pr merge (#3)
+- [cda01d8](https://github.com/voyagermesh/docs/commit/cda01d8) Create .kodiak.toml
+
+
+
 ## [voyagermesh/installer](https://github.com/voyagermesh/installer)
 
 ### [v2021.04.20-beta.2](https://github.com/voyagermesh/installer/releases/tag/v2021.04.20-beta.2)

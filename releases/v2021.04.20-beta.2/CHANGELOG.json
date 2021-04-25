@@ -1,11 +1,69 @@
 {
   "product_line": "Voyager",
   "release": "v2021.04.20-beta.2",
-  "release_date": "2021-04-25T00:31:57.669831467Z",
+  "release_date": "2021-04-25T00:46:16.334432478Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2021.04.20-beta.2",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/voyagermesh/docs",
+      "releases": [
+        {
+          "tag": "v2021.04.20-beta.2",
+          "commits": [
+            {
+              "SHA": "7fe5644",
+              "Subject": "Prepare for release v2021.04.20-beta.2 (#10)"
+            },
+            {
+              "SHA": "da68a6f",
+              "Subject": "Document how to issue license (#9)"
+            },
+            {
+              "SHA": "b8bafb4",
+              "Subject": "Enable preview mode (#8)"
+            },
+            {
+              "SHA": "be8cca7",
+              "Subject": "kubectl run is deprecated and is being removed (#7)"
+            },
+            {
+              "SHA": "f10ce89",
+              "Subject": "Update repository config (#5)"
+            },
+            {
+              "SHA": "2be974f",
+              "Subject": "Update links (#4)"
+            },
+            {
+              "SHA": "7d08a26",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "d7b35a2",
+              "Subject": "Add script to open pr"
+            },
+            {
+              "SHA": "689b461",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "fa1e718",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "35e3737",
+              "Subject": "Add script to update release tracker on pr merge (#3)"
+            },
+            {
+              "SHA": "cda01d8",
+              "Subject": "Create .kodiak.toml"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/voyagermesh/installer",
       "releases": [
