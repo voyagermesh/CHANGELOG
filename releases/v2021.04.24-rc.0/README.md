@@ -1,6 +1,13 @@
 # Voyager v2021.04.24-rc.0 (2021-04-25)
 
 
+## [voyagermesh/docs](https://github.com/voyagermesh/docs)
+
+### [v2021.04.24-rc.0](https://github.com/voyagermesh/docs/releases/tag/v2021.04.24-rc.0)
+
+
+
+
 ## [voyagermesh/installer](https://github.com/voyagermesh/installer)
 
 ### [v2021.04.24-rc.0](https://github.com/voyagermesh/installer/releases/tag/v2021.04.24-rc.0)
