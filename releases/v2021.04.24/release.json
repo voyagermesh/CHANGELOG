@@ -1,0 +1,72 @@
+{
+  "product_line": "Voyager",
+  "release": "v2021.04.24-rc.0",
+  "docs_url_template": "https://voyagermesh.com/docs/%s",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "github.com/voyagermesh/voyager": {
+        "tag": "v13.0.0-rc.0",
+        "sub_projects": null
+      }
+    },
+    {
+      "github.com/voyagermesh/installer": {
+        "key": "voyager-installer",
+        "tag": "v2021.04.24-rc.0",
+        "chartNames": [
+          "voyager",
+          "voyager-crds"
+        ],
+        "commands": [
+          "./hack/scripts/import-crds.sh",
+          "make update-charts CHART_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL} APP_VERSION=${VOYAGERMESH_VOYAGER_TAG}"
+        ],
+        "release_branch": "release-${TAG}",
+        "sub_projects": null
+      }
+    },
+    {
+      "github.com/appscode/charts": {
+        "charts": [
+          "github.com/voyagermesh/installer"
+        ],
+        "changelog": "Skip",
+        "sub_projects": null
+      }
+    },
+    {
+      "github.com/appscode/static-assets": {
+        "commands": [
+          "release-automaton update-assets --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE}"
+        ],
+        "changelog": "StandaloneWebsite",
+        "sub_projects": null
+      }
+    },
+    {
+      "github.com/voyagermesh/docs": {
+        "key": "voyager",
+        "tag": "v2021.04.24-rc.0",
+        "commands": [
+          "mv ${SCRIPT_ROOT}/releases/${RELEASE}/docs_changelog.md ${WORKSPACE}/docs/CHANGELOG-${RELEASE}.md"
+        ],
+        "release_branch": "release-${TAG}",
+        "sub_projects": null
+      }
+    },
+    {
+      "github.com/voyagermesh/website": {
+        "tag": "v2021.04.24-rc.0",
+        "commands": [
+          "make set-assets-repo ASSETS_REPO_URL=https://github.com/appscode/static-assets",
+          "make docs",
+          "make set-version VERSION=${TAG}"
+        ],
+        "release_branch": "master",
+        "changelog": "Skip",
+        "sub_projects": null
+      }
+    }
+  ]
+}
