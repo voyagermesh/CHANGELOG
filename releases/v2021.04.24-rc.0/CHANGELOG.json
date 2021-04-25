@@ -1,0 +1,619 @@
+{
+  "product_line": "Voyager",
+  "release": "v2021.04.24-rc.0",
+  "release_date": "2021-04-25T05:15:25.348847482Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2021.04.24-rc.0",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/docs",
+      "releases": [
+        {
+          "tag": "v2021.04.24-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2021.04.24-rc.0",
+          "commits": [
+            {
+              "SHA": "7996020",
+              "Subject": "Prepare for release v2021.04.24-rc.0 (#72)"
+            },
+            {
+              "SHA": "37b8597",
+              "Subject": "Prepare for release v2021.04.20-beta.2 (#71)"
+            },
+            {
+              "SHA": "3a33e2e",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "9c19ed2",
+              "Subject": "Add voyager-crds chart (#66)"
+            },
+            {
+              "SHA": "252f14a",
+              "Subject": "Add cleaner skip option for YAML installation process (#65)"
+            },
+            {
+              "SHA": "d737d14",
+              "Subject": "Remove protobuf code generator (#64)"
+            },
+            {
+              "SHA": "6fdc1ca",
+              "Subject": "Update repository config (#63)"
+            },
+            {
+              "SHA": "81c5627",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#62)"
+            },
+            {
+              "SHA": "acf9453",
+              "Subject": "Update repository config (#61)"
+            },
+            {
+              "SHA": "9de2b98",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#60)"
+            },
+            {
+              "SHA": "d2f88f6",
+              "Subject": "Update repository config (#59)"
+            },
+            {
+              "SHA": "2f97c0d",
+              "Subject": "Update repository config (#58)"
+            },
+            {
+              "SHA": "a17dcd6",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#57)"
+            },
+            {
+              "SHA": "1b34287",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#56)"
+            },
+            {
+              "SHA": "ce2fa80",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#55)"
+            },
+            {
+              "SHA": "3b9833f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#54)"
+            },
+            {
+              "SHA": "05c1ae4",
+              "Subject": "Update repository config (#53)"
+            },
+            {
+              "SHA": "9d5c567",
+              "Subject": "Update repository config (#52)"
+            },
+            {
+              "SHA": "68974d1",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#51)"
+            },
+            {
+              "SHA": "1834e92",
+              "Subject": "Update repository config (#50)"
+            },
+            {
+              "SHA": "88837e9",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#49)"
+            },
+            {
+              "SHA": "fd8dd22",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#48)"
+            },
+            {
+              "SHA": "e5acaa0",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#47)"
+            },
+            {
+              "SHA": "b8f929a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#46)"
+            },
+            {
+              "SHA": "0d18bec",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#44)"
+            },
+            {
+              "SHA": "eba9d11",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#43)"
+            },
+            {
+              "SHA": "3e27095",
+              "Subject": "Update repository config (#42)"
+            },
+            {
+              "SHA": "877c601",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#41)"
+            },
+            {
+              "SHA": "5cd3131",
+              "Subject": "Update repository config (#40)"
+            },
+            {
+              "SHA": "14e8b27",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#39)"
+            },
+            {
+              "SHA": "f219188",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#38)"
+            },
+            {
+              "SHA": "58f432a",
+              "Subject": "Update repository config (#37)"
+            },
+            {
+              "SHA": "41dc0fd",
+              "Subject": "Update repository config (#36)"
+            },
+            {
+              "SHA": "a54c114",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#35)"
+            },
+            {
+              "SHA": "d95070d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#34)"
+            },
+            {
+              "SHA": "c5ca00c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#33)"
+            },
+            {
+              "SHA": "30dfe30",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#32)"
+            },
+            {
+              "SHA": "e89a026",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#31)"
+            },
+            {
+              "SHA": "b91a6e9",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#30)"
+            },
+            {
+              "SHA": "236a3b1",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#29)"
+            },
+            {
+              "SHA": "a2d4bff",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#28)"
+            },
+            {
+              "SHA": "bc8cac9",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#27)"
+            },
+            {
+              "SHA": "8c93371",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#26)"
+            },
+            {
+              "SHA": "51a239d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#25)"
+            },
+            {
+              "SHA": "475bd11",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#24)"
+            },
+            {
+              "SHA": "4c472a4",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#23)"
+            },
+            {
+              "SHA": "40c34b1",
+              "Subject": "Update to Kubernetes v1.18.3 (#22)"
+            },
+            {
+              "SHA": "2b52571",
+              "Subject": "Update to Kubernetes v1.18.3 (#21)"
+            },
+            {
+              "SHA": "2d5ff81",
+              "Subject": "Update to Kubernetes v1.18.3 (#20)"
+            },
+            {
+              "SHA": "1c8cd5e",
+              "Subject": "Make chart registry configurable (#19)"
+            },
+            {
+              "SHA": "c75e2fd",
+              "Subject": "Publish to testing dir for alpha/beta releases"
+            },
+            {
+              "SHA": "0fbed72",
+              "Subject": "Update to Kubernetes v1.18.3 (#18)"
+            },
+            {
+              "SHA": "04abb9d",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "52f62df",
+              "Subject": "Tag chart and app version as string for yq"
+            },
+            {
+              "SHA": "3aed33c",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "fe16afc",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "9740a56",
+              "Subject": "Update release.yml"
+            },
+            {
+              "SHA": "290be5b",
+              "Subject": "Add script to update release tracker on pr merge (#17)"
+            },
+            {
+              "SHA": "0256621",
+              "Subject": "Update kubernetes versions in CI workflow"
+            },
+            {
+              "SHA": "5b4e797",
+              "Subject": "Add commands to update chart (#16)"
+            },
+            {
+              "SHA": "59872d2",
+              "Subject": "Fix chart release process (#15)"
+            },
+            {
+              "SHA": "cf8f550",
+              "Subject": "Fix release workflow script"
+            },
+            {
+              "SHA": "70ff5a6",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "4c429a3",
+              "Subject": "Update to Kubernetes v1.18.3 (#10)"
+            },
+            {
+              "SHA": "25d6aac",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "aeebca4",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "7aa3256",
+              "Subject": "Prepare release v13.0.0-beta.1 (#9)"
+            },
+            {
+              "SHA": "c46cf95",
+              "Subject": "Add permissions for networking.k8s.io (#8)"
+            },
+            {
+              "SHA": "40e7bef",
+              "Subject": "Generate both v1beta1 and v1 CRD YAML (#7)"
+            },
+            {
+              "SHA": "080d925",
+              "Subject": "Prepare release v13.0.0-beta.0"
+            },
+            {
+              "SHA": "3e5eb03",
+              "Subject": "Update to Kubernetes v1.18.3 (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v13.0.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e43f1b78",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "31e87b8e",
+              "Subject": "Disable building arm64 images"
+            },
+            {
+              "SHA": "404a6bcd",
+              "Subject": "Update Dockerfile"
+            },
+            {
+              "SHA": "4ae3aa3f",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "ae95cdb8",
+              "Subject": "Build voyager binary before building haproxy image"
+            },
+            {
+              "SHA": "8531ae0e",
+              "Subject": "Fix socklog download url"
+            },
+            {
+              "SHA": "c2f9a803",
+              "Subject": "Publish images to GH registry"
+            },
+            {
+              "SHA": "c2b1a5ce",
+              "Subject": "Add license verifier (#1583)"
+            },
+            {
+              "SHA": "94562494",
+              "Subject": "Update repository config (#1584)"
+            },
+            {
+              "SHA": "ea232e45",
+              "Subject": "Update license header (#1582)"
+            },
+            {
+              "SHA": "0bdded99",
+              "Subject": "Avoid issuing cert two times at creation (#1535)"
+            },
+            {
+              "SHA": "b356066d",
+              "Subject": "fix CheckCertificates goroutine to run an infinite loop again (#1531)"
+            },
+            {
+              "SHA": "7bd08749",
+              "Subject": "Avoid concurrent haproxy starts or reloads (#1547)"
+            },
+            {
+              "SHA": "5b423374",
+              "Subject": "Update kind in CI"
+            },
+            {
+              "SHA": "6e9cced0",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "c7f806e6",
+              "Subject": "Update repository config (#1579)"
+            },
+            {
+              "SHA": "e13dc9e7",
+              "Subject": "Update repository config (#1577)"
+            },
+            {
+              "SHA": "a4705e66",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1576)"
+            },
+            {
+              "SHA": "e937812b",
+              "Subject": "Update repository config (#1574)"
+            },
+            {
+              "SHA": "8a9f92cc",
+              "Subject": "Update repository config (#1573)"
+            },
+            {
+              "SHA": "08872d74",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1572)"
+            },
+            {
+              "SHA": "01ad6049",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1571)"
+            },
+            {
+              "SHA": "89e39d57",
+              "Subject": "Update repository config (#1570)"
+            },
+            {
+              "SHA": "777e2c53",
+              "Subject": "Update repository config (#1569)"
+            },
+            {
+              "SHA": "6fcc2041",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1568)"
+            },
+            {
+              "SHA": "120682e7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1567)"
+            },
+            {
+              "SHA": "23193a8e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1566)"
+            },
+            {
+              "SHA": "23553514",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1565)"
+            },
+            {
+              "SHA": "924fced5",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1564)"
+            },
+            {
+              "SHA": "8e0dc012",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1563)"
+            },
+            {
+              "SHA": "e54d2622",
+              "Subject": "Update repository config (#1561)"
+            },
+            {
+              "SHA": "ba9e4aa7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1559)"
+            },
+            {
+              "SHA": "285dac84",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1558)"
+            },
+            {
+              "SHA": "f5e66408",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1557)"
+            },
+            {
+              "SHA": "a51e4aa4",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1555)"
+            },
+            {
+              "SHA": "1afdf274",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1554)"
+            },
+            {
+              "SHA": "93e691ea",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1552)"
+            },
+            {
+              "SHA": "3d1c72d4",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1549)"
+            },
+            {
+              "SHA": "d48b88ed",
+              "Subject": "Update repository config (#1551)"
+            },
+            {
+              "SHA": "603868db",
+              "Subject": "Update repository config (#1550)"
+            },
+            {
+              "SHA": "869936e4",
+              "Subject": "Update repository config (#1548)"
+            },
+            {
+              "SHA": "ac8399a7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1546)"
+            },
+            {
+              "SHA": "3889306c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1544)"
+            },
+            {
+              "SHA": "2256661e",
+              "Subject": "Update repository config (#1543)"
+            },
+            {
+              "SHA": "ed48d8f0",
+              "Subject": "Update repository config (#1542)"
+            },
+            {
+              "SHA": "c1d898d3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1541)"
+            },
+            {
+              "SHA": "7764aac4",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1540)"
+            },
+            {
+              "SHA": "f9f1732e",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1539)"
+            },
+            {
+              "SHA": "b3f18ffd",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1536)"
+            },
+            {
+              "SHA": "c92a0f15",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1534)"
+            },
+            {
+              "SHA": "aa701496",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1532)"
+            },
+            {
+              "SHA": "cacef44c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1529)"
+            },
+            {
+              "SHA": "f9248332",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1528)"
+            },
+            {
+              "SHA": "fd3aa94c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1527)"
+            },
+            {
+              "SHA": "85915ab8",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1524)"
+            },
+            {
+              "SHA": "dd3cc508",
+              "Subject": "Update to Kubernetes v1.18.3 (#1521)"
+            },
+            {
+              "SHA": "cbd7d3e2",
+              "Subject": "Update to Kubernetes v1.18.3 (#1520)"
+            },
+            {
+              "SHA": "d00a4c72",
+              "Subject": "Update to Kubernetes v1.18.3 (#1519)"
+            },
+            {
+              "SHA": "c6bbe8cc",
+              "Subject": "Update to Kubernetes v1.18.3 (#1518)"
+            },
+            {
+              "SHA": "dcc94c7e",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "d9c38862",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "5c74ad2b",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "21b03bbb",
+              "Subject": "Add script to update release tracker on pr merge (#1516)"
+            },
+            {
+              "SHA": "57503de5",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "dbdb1e5c",
+              "Subject": "Update to Kubernetes v1.18.3 (#1514)"
+            },
+            {
+              "SHA": "1abc059e",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "7a61045e",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "4081635b",
+              "Subject": "Prepare release v13.0.0-beta.1 (#1512)"
+            },
+            {
+              "SHA": "9b527d39",
+              "Subject": "Generate both v1beta1 and v1 CRD YAML (#1511)"
+            },
+            {
+              "SHA": "bb85c779",
+              "Subject": "Prepare release v13.0.0-beta.0 (#1510)"
+            },
+            {
+              "SHA": "c19455cf",
+              "Subject": "Update to Kubernetes v1.18.3 (#1509)"
+            },
+            {
+              "SHA": "9e750a13",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "f89dc723",
+              "Subject": "Merge pull request #1507 from smarkets/fix-readme-docs-links"
+            },
+            {
+              "SHA": "6ed3c7eb",
+              "Subject": "Fix README.md documentation links"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
