@@ -2,6 +2,7 @@
 
 | Voyager Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
+| [v2021.09.15](https:/github.com/voyagermesh/CHANGELOG/releases/tag/v2021.09.15) | 2021-09-15 | [User Guide](https://voyagermesh.com/docs/v2021.09.15) | [CHANGELOG](/releases/v2021.09.15/README.md) | 1.19+ |
 | [v2021.04.24-rc.0](https:/github.com/voyagermesh/CHANGELOG/releases/tag/v2021.04.24-rc.0) | 2021-04-25 | [User Guide](https://voyagermesh.com/docs/v2021.04.24-rc.0) | [CHANGELOG](/releases/v2021.04.24-rc.0/README.md) | 1.14+ |
 | [v12.0.0](https://github.com/voyagermesh/voyager/releases/tag/v12.0.0) | 2020-05-18 | [User Guide](https://voyagermesh.com/docs/v12.0.0) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/v12.0.0) |  |
 | [v12.0.0-rc.2](https://github.com/voyagermesh/voyager/releases/tag/v12.0.0-rc.2) | 2020-04-25 | [User Guide](https://voyagermesh.com/docs/v12.0.0-rc.2) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/v12.0.0-rc.2) |  |
