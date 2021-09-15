@@ -1096,3 +1096,103 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v13.0.0](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v13.0.0)
+
+- [591bae2f](https://github.com/voyagermesh/haproxy-ingress/commit/591bae2f) Prepare for release v13.0.0 (#6)
+- [e53fdb56](https://github.com/voyagermesh/haproxy-ingress/commit/e53fdb56) Fix linter error
+- [bbc79553](https://github.com/voyagermesh/haproxy-ingress/commit/bbc79553) Fix CI
+- [564e11cb](https://github.com/voyagermesh/haproxy-ingress/commit/564e11cb) Disable grpc test as breaks build
+- [cea1bf26](https://github.com/voyagermesh/haproxy-ingress/commit/cea1bf26) Remove --enable-validating-webhook flag
+- [9d8e9803](https://github.com/voyagermesh/haproxy-ingress/commit/9d8e9803) Add v1beta1 <-> v1 crd converter (#5)
+- [5601bd36](https://github.com/voyagermesh/haproxy-ingress/commit/5601bd36) Fix lua script loading (#4)
+- [dee97c55](https://github.com/voyagermesh/haproxy-ingress/commit/dee97c55) Log everything to stdout and notice to stderr
+- [c8a1394d](https://github.com/voyagermesh/haproxy-ingress/commit/c8a1394d) Enable built-in prometheus exporter
+- [c331002a](https://github.com/voyagermesh/haproxy-ingress/commit/c331002a) Implement voyager.appscode.com/v1 api operator (#3)
+- [222e6506](https://github.com/voyagermesh/haproxy-ingress/commit/222e6506) Update repository config (#2)
+- [110e198e](https://github.com/voyagermesh/haproxy-ingress/commit/110e198e) Stop using api versions removed in k8s 1.22 (#1)
+- [56e15b13](https://github.com/voyagermesh/haproxy-ingress/commit/56e15b13) Use voyager namespace
+- [87d89fab](https://github.com/voyagermesh/haproxy-ingress/commit/87d89fab) Update audit lib
+- [a9dd2d72](https://github.com/voyagermesh/haproxy-ingress/commit/a9dd2d72) Send audit events if analytics enabled (#1588)
+- [af1ec7b8](https://github.com/voyagermesh/haproxy-ingress/commit/af1ec7b8) Publish audit events
+- [a527eb62](https://github.com/voyagermesh/haproxy-ingress/commit/a527eb62) Use klog/v2
+- [d3756322](https://github.com/voyagermesh/haproxy-ingress/commit/d3756322) Bring back grpc test
+- [44fe45ea](https://github.com/voyagermesh/haproxy-ingress/commit/44fe45ea) Update Kubernetes toolchain to v1.21.0 (#1585)
+- [e43f1b78](https://github.com/voyagermesh/haproxy-ingress/commit/e43f1b78) Update readme
+- [31e87b8e](https://github.com/voyagermesh/haproxy-ingress/commit/31e87b8e) Disable building arm64 images
+- [404a6bcd](https://github.com/voyagermesh/haproxy-ingress/commit/404a6bcd) Update Dockerfile
+- [4ae3aa3f](https://github.com/voyagermesh/haproxy-ingress/commit/4ae3aa3f) Fix build
+- [ae95cdb8](https://github.com/voyagermesh/haproxy-ingress/commit/ae95cdb8) Build voyager binary before building haproxy image
+- [8531ae0e](https://github.com/voyagermesh/haproxy-ingress/commit/8531ae0e) Fix socklog download url
+- [c2f9a803](https://github.com/voyagermesh/haproxy-ingress/commit/c2f9a803) Publish images to GH registry
+- [c2b1a5ce](https://github.com/voyagermesh/haproxy-ingress/commit/c2b1a5ce) Add license verifier (#1583)
+- [94562494](https://github.com/voyagermesh/haproxy-ingress/commit/94562494) Update repository config (#1584)
+- [ea232e45](https://github.com/voyagermesh/haproxy-ingress/commit/ea232e45) Update license header (#1582)
+- [0bdded99](https://github.com/voyagermesh/haproxy-ingress/commit/0bdded99) Avoid issuing cert two times at creation (#1535)
+- [b356066d](https://github.com/voyagermesh/haproxy-ingress/commit/b356066d) fix CheckCertificates goroutine to run an infinite loop again (#1531)
+- [7bd08749](https://github.com/voyagermesh/haproxy-ingress/commit/7bd08749) Avoid concurrent haproxy starts or reloads (#1547)
+- [5b423374](https://github.com/voyagermesh/haproxy-ingress/commit/5b423374) Update kind in CI
+- [6e9cced0](https://github.com/voyagermesh/haproxy-ingress/commit/6e9cced0) Update README.md
+- [c7f806e6](https://github.com/voyagermesh/haproxy-ingress/commit/c7f806e6) Update repository config (#1579)
+- [e13dc9e7](https://github.com/voyagermesh/haproxy-ingress/commit/e13dc9e7) Update repository config (#1577)
+- [a4705e66](https://github.com/voyagermesh/haproxy-ingress/commit/a4705e66) Update Kubernetes v1.18.9 dependencies (#1576)
+- [e937812b](https://github.com/voyagermesh/haproxy-ingress/commit/e937812b) Update repository config (#1574)
+- [8a9f92cc](https://github.com/voyagermesh/haproxy-ingress/commit/8a9f92cc) Update repository config (#1573)
+- [08872d74](https://github.com/voyagermesh/haproxy-ingress/commit/08872d74) Update Kubernetes v1.18.9 dependencies (#1572)
+- [01ad6049](https://github.com/voyagermesh/haproxy-ingress/commit/01ad6049) Update Kubernetes v1.18.9 dependencies (#1571)
+- [89e39d57](https://github.com/voyagermesh/haproxy-ingress/commit/89e39d57) Update repository config (#1570)
+- [777e2c53](https://github.com/voyagermesh/haproxy-ingress/commit/777e2c53) Update repository config (#1569)
+- [6fcc2041](https://github.com/voyagermesh/haproxy-ingress/commit/6fcc2041) Update Kubernetes v1.18.9 dependencies (#1568)
+- [120682e7](https://github.com/voyagermesh/haproxy-ingress/commit/120682e7) Update Kubernetes v1.18.9 dependencies (#1567)
+- [23193a8e](https://github.com/voyagermesh/haproxy-ingress/commit/23193a8e) Update Kubernetes v1.18.9 dependencies (#1566)
+- [23553514](https://github.com/voyagermesh/haproxy-ingress/commit/23553514) Update Kubernetes v1.18.9 dependencies (#1565)
+- [924fced5](https://github.com/voyagermesh/haproxy-ingress/commit/924fced5) Update Kubernetes v1.18.9 dependencies (#1564)
+- [8e0dc012](https://github.com/voyagermesh/haproxy-ingress/commit/8e0dc012) Update Kubernetes v1.18.9 dependencies (#1563)
+- [e54d2622](https://github.com/voyagermesh/haproxy-ingress/commit/e54d2622) Update repository config (#1561)
+- [ba9e4aa7](https://github.com/voyagermesh/haproxy-ingress/commit/ba9e4aa7) Update Kubernetes v1.18.9 dependencies (#1559)
+- [285dac84](https://github.com/voyagermesh/haproxy-ingress/commit/285dac84) Update Kubernetes v1.18.9 dependencies (#1558)
+- [f5e66408](https://github.com/voyagermesh/haproxy-ingress/commit/f5e66408) Update Kubernetes v1.18.9 dependencies (#1557)
+- [a51e4aa4](https://github.com/voyagermesh/haproxy-ingress/commit/a51e4aa4) Update Kubernetes v1.18.9 dependencies (#1555)
+- [1afdf274](https://github.com/voyagermesh/haproxy-ingress/commit/1afdf274) Update Kubernetes v1.18.9 dependencies (#1554)
+- [93e691ea](https://github.com/voyagermesh/haproxy-ingress/commit/93e691ea) Update Kubernetes v1.18.9 dependencies (#1552)
+- [3d1c72d4](https://github.com/voyagermesh/haproxy-ingress/commit/3d1c72d4) Update Kubernetes v1.18.9 dependencies (#1549)
+- [d48b88ed](https://github.com/voyagermesh/haproxy-ingress/commit/d48b88ed) Update repository config (#1551)
+- [603868db](https://github.com/voyagermesh/haproxy-ingress/commit/603868db) Update repository config (#1550)
+- [869936e4](https://github.com/voyagermesh/haproxy-ingress/commit/869936e4) Update repository config (#1548)
+- [ac8399a7](https://github.com/voyagermesh/haproxy-ingress/commit/ac8399a7) Update Kubernetes v1.18.9 dependencies (#1546)
+- [3889306c](https://github.com/voyagermesh/haproxy-ingress/commit/3889306c) Update Kubernetes v1.18.9 dependencies (#1544)
+- [2256661e](https://github.com/voyagermesh/haproxy-ingress/commit/2256661e) Update repository config (#1543)
+- [ed48d8f0](https://github.com/voyagermesh/haproxy-ingress/commit/ed48d8f0) Update repository config (#1542)
+- [c1d898d3](https://github.com/voyagermesh/haproxy-ingress/commit/c1d898d3) Update Kubernetes v1.18.9 dependencies (#1541)
+- [7764aac4](https://github.com/voyagermesh/haproxy-ingress/commit/7764aac4) Update Kubernetes v1.18.3 dependencies (#1540)
+- [f9f1732e](https://github.com/voyagermesh/haproxy-ingress/commit/f9f1732e) Update Kubernetes v1.18.3 dependencies (#1539)
+- [b3f18ffd](https://github.com/voyagermesh/haproxy-ingress/commit/b3f18ffd) Update Kubernetes v1.18.3 dependencies (#1536)
+- [c92a0f15](https://github.com/voyagermesh/haproxy-ingress/commit/c92a0f15) Update Kubernetes v1.18.3 dependencies (#1534)
+- [aa701496](https://github.com/voyagermesh/haproxy-ingress/commit/aa701496) Update Kubernetes v1.18.3 dependencies (#1532)
+- [cacef44c](https://github.com/voyagermesh/haproxy-ingress/commit/cacef44c) Update Kubernetes v1.18.3 dependencies (#1529)
+- [f9248332](https://github.com/voyagermesh/haproxy-ingress/commit/f9248332) Update Kubernetes v1.18.3 dependencies (#1528)
+- [fd3aa94c](https://github.com/voyagermesh/haproxy-ingress/commit/fd3aa94c) Update Kubernetes v1.18.3 dependencies (#1527)
+- [85915ab8](https://github.com/voyagermesh/haproxy-ingress/commit/85915ab8) Update Kubernetes v1.18.3 dependencies (#1524)
+- [dd3cc508](https://github.com/voyagermesh/haproxy-ingress/commit/dd3cc508) Update to Kubernetes v1.18.3 (#1521)
+- [cbd7d3e2](https://github.com/voyagermesh/haproxy-ingress/commit/cbd7d3e2) Update to Kubernetes v1.18.3 (#1520)
+- [d00a4c72](https://github.com/voyagermesh/haproxy-ingress/commit/d00a4c72) Update to Kubernetes v1.18.3 (#1519)
+- [c6bbe8cc](https://github.com/voyagermesh/haproxy-ingress/commit/c6bbe8cc) Update to Kubernetes v1.18.3 (#1518)
+- [dcc94c7e](https://github.com/voyagermesh/haproxy-ingress/commit/dcc94c7e) Update ci.yml
+- [d9c38862](https://github.com/voyagermesh/haproxy-ingress/commit/d9c38862) Update update-release-tracker.sh
+- [5c74ad2b](https://github.com/voyagermesh/haproxy-ingress/commit/5c74ad2b) Update update-release-tracker.sh
+- [21b03bbb](https://github.com/voyagermesh/haproxy-ingress/commit/21b03bbb) Add script to update release tracker on pr merge (#1516)
+- [57503de5](https://github.com/voyagermesh/haproxy-ingress/commit/57503de5) Update .kodiak.toml
+- [dbdb1e5c](https://github.com/voyagermesh/haproxy-ingress/commit/dbdb1e5c) Update to Kubernetes v1.18.3 (#1514)
+- [1abc059e](https://github.com/voyagermesh/haproxy-ingress/commit/1abc059e) Update to Kubernetes v1.18.3
+- [7a61045e](https://github.com/voyagermesh/haproxy-ingress/commit/7a61045e) Create .kodiak.toml
+- [4081635b](https://github.com/voyagermesh/haproxy-ingress/commit/4081635b) Prepare release v13.0.0-beta.1 (#1512)
+- [9b527d39](https://github.com/voyagermesh/haproxy-ingress/commit/9b527d39) Generate both v1beta1 and v1 CRD YAML (#1511)
+- [bb85c779](https://github.com/voyagermesh/haproxy-ingress/commit/bb85c779) Prepare release v13.0.0-beta.0 (#1510)
+- [c19455cf](https://github.com/voyagermesh/haproxy-ingress/commit/c19455cf) Update to Kubernetes v1.18.3 (#1509)
+- [9e750a13](https://github.com/voyagermesh/haproxy-ingress/commit/9e750a13) Update README.md
+- [f89dc723](https://github.com/voyagermesh/haproxy-ingress/commit/f89dc723) Merge pull request #1507 from smarkets/fix-readme-docs-links
+- [6ed3c7eb](https://github.com/voyagermesh/haproxy-ingress/commit/6ed3c7eb) Fix README.md documentation links
+
+
+
