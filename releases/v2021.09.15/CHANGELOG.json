@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2021.09.15",
-  "release_date": "2021-09-16T00:41:03.684042434Z",
+  "release_date": "2021-09-16T19:03:08.089838729Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2021.09.15",
   "kubernetes_version": "1.19+",
@@ -5129,6 +5129,15 @@
               "Subject": "Update to Kubernetes v1.18.3 (#6)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2021.09.15",
+          "commits": null
         }
       ]
     }
