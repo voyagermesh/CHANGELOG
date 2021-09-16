@@ -1,4 +1,4 @@
-# Voyager v2021.09.15 (2021-09-15)
+# Voyager v2021.09.15 (2021-09-16)
 
 
 ## [voyagermesh/apimachinery](https://github.com/voyagermesh/apimachinery)
@@ -1193,6 +1193,106 @@
 - [9e750a13](https://github.com/voyagermesh/haproxy-ingress/commit/9e750a13) Update README.md
 - [f89dc723](https://github.com/voyagermesh/haproxy-ingress/commit/f89dc723) Merge pull request #1507 from smarkets/fix-readme-docs-links
 - [6ed3c7eb](https://github.com/voyagermesh/haproxy-ingress/commit/6ed3c7eb) Fix README.md documentation links
+
+
+
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2021.09.15](https://github.com/voyagermesh/installer/releases/tag/v2021.09.15)
+
+- [12faf00](https://github.com/voyagermesh/installer/commit/12faf00) Prepare for release v2021.09.15 (#86)
+- [d5e9b00](https://github.com/voyagermesh/installer/commit/d5e9b00) Fix import-crds script
+- [62ba7dc](https://github.com/voyagermesh/installer/commit/62ba7dc) Make validating webhooks required
+- [65f05df](https://github.com/voyagermesh/installer/commit/65f05df) Mark /convert path as always allow (#85)
+- [0f5d596](https://github.com/voyagermesh/installer/commit/0f5d596) Use HAProxy 2.4.4 (#84)
+- [d53eea0](https://github.com/voyagermesh/installer/commit/d53eea0) Update repository config (#83)
+- [8fb004a](https://github.com/voyagermesh/installer/commit/8fb004a) Delete voyager.appscode.com_certificates.yaml
+- [d966bb5](https://github.com/voyagermesh/installer/commit/d966bb5) Update repository config (#82)
+- [323b08d](https://github.com/voyagermesh/installer/commit/323b08d) Update repository config (#81)
+- [876aef6](https://github.com/voyagermesh/installer/commit/876aef6) Update chart description
+- [a423445](https://github.com/voyagermesh/installer/commit/a423445) Update dependencies (#80)
+- [05ede0e](https://github.com/voyagermesh/installer/commit/05ede0e) Minimum required k8s version to 1.19
+- [d06bf03](https://github.com/voyagermesh/installer/commit/d06bf03) Switch to AppsCode Community License
+- [8ea7f8a](https://github.com/voyagermesh/installer/commit/8ea7f8a) Update README.md
+- [e44a1c6](https://github.com/voyagermesh/installer/commit/e44a1c6) Stop using api versions removed in k8s 1.22 (#79)
+- [a9822dd](https://github.com/voyagermesh/installer/commit/a9822dd) Add regsitryFQDN support (#78)
+- [7db2985](https://github.com/voyagermesh/installer/commit/7db2985) Use Kubernetes v1.21.0 toolchain (#77)
+- [2920e4c](https://github.com/voyagermesh/installer/commit/2920e4c) Use Kubernetes v1.21.0 toolchain (#76)
+- [8d822e2](https://github.com/voyagermesh/installer/commit/8d822e2) Use Kubernetes v1.21.0 toolchain (#75)
+- [88bbfdc](https://github.com/voyagermesh/installer/commit/88bbfdc) Use Kubernetes v1.21.0 toolchain (#74)
+- [bf96a48](https://github.com/voyagermesh/installer/commit/bf96a48) Update Kubernetes toolchain to v1.21.0 (#73)
+- [589ed14](https://github.com/voyagermesh/installer/commit/589ed14) Use apiregistration.k8s.io/v1
+- [7996020](https://github.com/voyagermesh/installer/commit/7996020) Prepare for release v2021.04.24-rc.0 (#72)
+- [37b8597](https://github.com/voyagermesh/installer/commit/37b8597) Prepare for release v2021.04.20-beta.2 (#71)
+- [3a33e2e](https://github.com/voyagermesh/installer/commit/3a33e2e) Update Makefile
+- [9c19ed2](https://github.com/voyagermesh/installer/commit/9c19ed2) Add voyager-crds chart (#66)
+- [252f14a](https://github.com/voyagermesh/installer/commit/252f14a) Add cleaner skip option for YAML installation process (#65)
+- [d737d14](https://github.com/voyagermesh/installer/commit/d737d14) Remove protobuf code generator (#64)
+- [6fdc1ca](https://github.com/voyagermesh/installer/commit/6fdc1ca) Update repository config (#63)
+- [81c5627](https://github.com/voyagermesh/installer/commit/81c5627) Update Kubernetes v1.18.9 dependencies (#62)
+- [acf9453](https://github.com/voyagermesh/installer/commit/acf9453) Update repository config (#61)
+- [9de2b98](https://github.com/voyagermesh/installer/commit/9de2b98) Update Kubernetes v1.18.9 dependencies (#60)
+- [d2f88f6](https://github.com/voyagermesh/installer/commit/d2f88f6) Update repository config (#59)
+- [2f97c0d](https://github.com/voyagermesh/installer/commit/2f97c0d) Update repository config (#58)
+- [a17dcd6](https://github.com/voyagermesh/installer/commit/a17dcd6) Update Kubernetes v1.18.9 dependencies (#57)
+- [1b34287](https://github.com/voyagermesh/installer/commit/1b34287) Update Kubernetes v1.18.9 dependencies (#56)
+- [ce2fa80](https://github.com/voyagermesh/installer/commit/ce2fa80) Update Kubernetes v1.18.9 dependencies (#55)
+- [3b9833f](https://github.com/voyagermesh/installer/commit/3b9833f) Update Kubernetes v1.18.9 dependencies (#54)
+- [05c1ae4](https://github.com/voyagermesh/installer/commit/05c1ae4) Update repository config (#53)
+- [9d5c567](https://github.com/voyagermesh/installer/commit/9d5c567) Update repository config (#52)
+- [68974d1](https://github.com/voyagermesh/installer/commit/68974d1) Update Kubernetes v1.18.9 dependencies (#51)
+- [1834e92](https://github.com/voyagermesh/installer/commit/1834e92) Update repository config (#50)
+- [88837e9](https://github.com/voyagermesh/installer/commit/88837e9) Update Kubernetes v1.18.9 dependencies (#49)
+- [fd8dd22](https://github.com/voyagermesh/installer/commit/fd8dd22) Update Kubernetes v1.18.9 dependencies (#48)
+- [e5acaa0](https://github.com/voyagermesh/installer/commit/e5acaa0) Update Kubernetes v1.18.9 dependencies (#47)
+- [b8f929a](https://github.com/voyagermesh/installer/commit/b8f929a) Update Kubernetes v1.18.9 dependencies (#46)
+- [0d18bec](https://github.com/voyagermesh/installer/commit/0d18bec) Update Kubernetes v1.18.9 dependencies (#44)
+- [eba9d11](https://github.com/voyagermesh/installer/commit/eba9d11) Update Kubernetes v1.18.9 dependencies (#43)
+- [3e27095](https://github.com/voyagermesh/installer/commit/3e27095) Update repository config (#42)
+- [877c601](https://github.com/voyagermesh/installer/commit/877c601) Update Kubernetes v1.18.9 dependencies (#41)
+- [5cd3131](https://github.com/voyagermesh/installer/commit/5cd3131) Update repository config (#40)
+- [14e8b27](https://github.com/voyagermesh/installer/commit/14e8b27) Update Kubernetes v1.18.9 dependencies (#39)
+- [f219188](https://github.com/voyagermesh/installer/commit/f219188) Update Kubernetes v1.18.9 dependencies (#38)
+- [58f432a](https://github.com/voyagermesh/installer/commit/58f432a) Update repository config (#37)
+- [41dc0fd](https://github.com/voyagermesh/installer/commit/41dc0fd) Update repository config (#36)
+- [a54c114](https://github.com/voyagermesh/installer/commit/a54c114) Update Kubernetes v1.18.9 dependencies (#35)
+- [d95070d](https://github.com/voyagermesh/installer/commit/d95070d) Update Kubernetes v1.18.3 dependencies (#34)
+- [c5ca00c](https://github.com/voyagermesh/installer/commit/c5ca00c) Update Kubernetes v1.18.3 dependencies (#33)
+- [30dfe30](https://github.com/voyagermesh/installer/commit/30dfe30) Update Kubernetes v1.18.3 dependencies (#32)
+- [e89a026](https://github.com/voyagermesh/installer/commit/e89a026) Update Kubernetes v1.18.3 dependencies (#31)
+- [b91a6e9](https://github.com/voyagermesh/installer/commit/b91a6e9) Update Kubernetes v1.18.3 dependencies (#30)
+- [236a3b1](https://github.com/voyagermesh/installer/commit/236a3b1) Update Kubernetes v1.18.3 dependencies (#29)
+- [a2d4bff](https://github.com/voyagermesh/installer/commit/a2d4bff) Update Kubernetes v1.18.3 dependencies (#28)
+- [bc8cac9](https://github.com/voyagermesh/installer/commit/bc8cac9) Update Kubernetes v1.18.3 dependencies (#27)
+- [8c93371](https://github.com/voyagermesh/installer/commit/8c93371) Update Kubernetes v1.18.3 dependencies (#26)
+- [51a239d](https://github.com/voyagermesh/installer/commit/51a239d) Update Kubernetes v1.18.3 dependencies (#25)
+- [475bd11](https://github.com/voyagermesh/installer/commit/475bd11) Update Kubernetes v1.18.3 dependencies (#24)
+- [4c472a4](https://github.com/voyagermesh/installer/commit/4c472a4) Update Kubernetes v1.18.3 dependencies (#23)
+- [40c34b1](https://github.com/voyagermesh/installer/commit/40c34b1) Update to Kubernetes v1.18.3 (#22)
+- [2b52571](https://github.com/voyagermesh/installer/commit/2b52571) Update to Kubernetes v1.18.3 (#21)
+- [2d5ff81](https://github.com/voyagermesh/installer/commit/2d5ff81) Update to Kubernetes v1.18.3 (#20)
+- [1c8cd5e](https://github.com/voyagermesh/installer/commit/1c8cd5e) Make chart registry configurable (#19)
+- [c75e2fd](https://github.com/voyagermesh/installer/commit/c75e2fd) Publish to testing dir for alpha/beta releases
+- [0fbed72](https://github.com/voyagermesh/installer/commit/0fbed72) Update to Kubernetes v1.18.3 (#18)
+- [04abb9d](https://github.com/voyagermesh/installer/commit/04abb9d) Update ci.yml
+- [52f62df](https://github.com/voyagermesh/installer/commit/52f62df) Tag chart and app version as string for yq
+- [3aed33c](https://github.com/voyagermesh/installer/commit/3aed33c) Update update-release-tracker.sh
+- [fe16afc](https://github.com/voyagermesh/installer/commit/fe16afc) Update update-release-tracker.sh
+- [9740a56](https://github.com/voyagermesh/installer/commit/9740a56) Update release.yml
+- [290be5b](https://github.com/voyagermesh/installer/commit/290be5b) Add script to update release tracker on pr merge (#17)
+- [0256621](https://github.com/voyagermesh/installer/commit/0256621) Update kubernetes versions in CI workflow
+- [5b4e797](https://github.com/voyagermesh/installer/commit/5b4e797) Add commands to update chart (#16)
+- [59872d2](https://github.com/voyagermesh/installer/commit/59872d2) Fix chart release process (#15)
+- [cf8f550](https://github.com/voyagermesh/installer/commit/cf8f550) Fix release workflow script
+- [70ff5a6](https://github.com/voyagermesh/installer/commit/70ff5a6) Update .kodiak.toml
+- [4c429a3](https://github.com/voyagermesh/installer/commit/4c429a3) Update to Kubernetes v1.18.3 (#10)
+- [25d6aac](https://github.com/voyagermesh/installer/commit/25d6aac) Update to Kubernetes v1.18.3
+- [aeebca4](https://github.com/voyagermesh/installer/commit/aeebca4) Create .kodiak.toml
+- [7aa3256](https://github.com/voyagermesh/installer/commit/7aa3256) Prepare release v13.0.0-beta.1 (#9)
+- [c46cf95](https://github.com/voyagermesh/installer/commit/c46cf95) Add permissions for networking.k8s.io (#8)
+- [40e7bef](https://github.com/voyagermesh/installer/commit/40e7bef) Generate both v1beta1 and v1 CRD YAML (#7)
+- [080d925](https://github.com/voyagermesh/installer/commit/080d925) Prepare release v13.0.0-beta.0
+- [3e5eb03](https://github.com/voyagermesh/installer/commit/3e5eb03) Update to Kubernetes v1.18.3 (#6)
 
 
 
