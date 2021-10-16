@@ -27,3 +27,11 @@
 
 
 
+## [voyagermesh/voyager](https://github.com/voyagermesh/voyager)
+
+### [v2021.10.17](https://github.com/voyagermesh/voyager/releases/tag/v2021.10.17)
+
+- [82b691c](https://github.com/voyagermesh/voyager/commit/82b691c) Prepare for release v2021.10.17 (#1600)
+
+
+

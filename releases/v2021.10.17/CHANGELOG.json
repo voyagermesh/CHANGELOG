@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2021.10.17",
-  "release_date": "2021-10-16T12:15:17.855581473Z",
+  "release_date": "2021-10-16T12:26:06.313871971Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2021.10.17",
   "kubernetes_version": "1.19+",
@@ -51,6 +51,20 @@
             {
               "SHA": "a92784d",
               "Subject": "Prepare for release v2021.10.17 (#92)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2021.10.17",
+          "commits": [
+            {
+              "SHA": "82b691c",
+              "Subject": "Prepare for release v2021.10.17 (#1600)"
             }
           ]
         }
