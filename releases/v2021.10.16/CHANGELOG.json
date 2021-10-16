@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2021.10.16",
-  "release_date": "2021-10-16T07:27:49.938255639Z",
+  "release_date": "2021-10-16T07:53:41.27723593Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2021.10.16",
   "kubernetes_version": "1.19+",
@@ -39,6 +39,40 @@
             {
               "SHA": "4216e746",
               "Subject": "Remove deprecated fields (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v13.0.1",
+          "commits": [
+            {
+              "SHA": "1f65f08c",
+              "Subject": "Prepare for release v13.0.1 (#24)"
+            },
+            {
+              "SHA": "89dcd122",
+              "Subject": "Run separate operator and webhook server pods (#23)"
+            },
+            {
+              "SHA": "f5621d0d",
+              "Subject": "Fix jwt-go security vulnerability (#21)"
+            },
+            {
+              "SHA": "b968bc02",
+              "Subject": "Use nats.go v1.13.0 (#20)"
+            },
+            {
+              "SHA": "e3c0c421",
+              "Subject": "Setup SiteInfo publisher (#19)"
+            },
+            {
+              "SHA": "5a3f21d3",
+              "Subject": "Update dependencies to publish SiteInfo (#18)"
             }
           ]
         }
