@@ -1,0 +1,48 @@
+{
+  "product_line": "Voyager",
+  "release": "v2021.10.16",
+  "release_date": "2021-10-16T07:27:49.938255639Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2021.10.16",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.1.1",
+          "commits": [
+            {
+              "SHA": "a7704e79",
+              "Subject": "Set TypeMeta for converter methods (#15)"
+            },
+            {
+              "SHA": "2ccd9780",
+              "Subject": "Fix jwt-go security vulnerability (#14)"
+            },
+            {
+              "SHA": "7c884131",
+              "Subject": "Fix jwt-go security vulnerability (#13)"
+            },
+            {
+              "SHA": "660e4478",
+              "Subject": "Update dependencies to publish SiteInfo (#12)"
+            },
+            {
+              "SHA": "c175c94c",
+              "Subject": "Update repository config (#11)"
+            },
+            {
+              "SHA": "aabe0c90",
+              "Subject": "Rename minikube to kind (#10)"
+            },
+            {
+              "SHA": "4216e746",
+              "Subject": "Remove deprecated fields (#9)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
