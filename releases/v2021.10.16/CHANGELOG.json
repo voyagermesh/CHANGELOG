@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2021.10.16",
-  "release_date": "2021-10-16T08:26:57.358645918Z",
+  "release_date": "2021-10-16T08:38:38.459317314Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2021.10.16",
   "kubernetes_version": "1.19+",
@@ -103,6 +103,24 @@
             {
               "SHA": "0e722e0",
               "Subject": "Update repository config (#87)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2021.10.16",
+          "commits": [
+            {
+              "SHA": "d651ee6",
+              "Subject": "Prepare for release v2021.10.16 (#1599)"
+            },
+            {
+              "SHA": "17e5124",
+              "Subject": "Replace reference to minikube with kind"
             }
           ]
         }

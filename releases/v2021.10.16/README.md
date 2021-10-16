@@ -40,3 +40,12 @@
 
 
 
+## [voyagermesh/voyager](https://github.com/voyagermesh/voyager)
+
+### [v2021.10.16](https://github.com/voyagermesh/voyager/releases/tag/v2021.10.16)
+
+- [d651ee6](https://github.com/voyagermesh/voyager/commit/d651ee6) Prepare for release v2021.10.16 (#1599)
+- [17e5124](https://github.com/voyagermesh/voyager/commit/17e5124) Replace reference to minikube with kind
+
+
+
