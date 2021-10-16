@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2021.10.17",
-  "release_date": "2021-10-16T11:51:12.158497942Z",
+  "release_date": "2021-10-16T12:15:17.855581473Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2021.10.17",
   "kubernetes_version": "1.19+",
@@ -37,6 +37,20 @@
             {
               "SHA": "29e080ba",
               "Subject": "Fix flag conflict"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2021.10.17",
+          "commits": [
+            {
+              "SHA": "a92784d",
+              "Subject": "Prepare for release v2021.10.17 (#92)"
             }
           ]
         }
