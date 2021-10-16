@@ -1,0 +1,130 @@
+{
+  "product_line": "Voyager",
+  "release": "v2021.10.16",
+  "release_date": "2021-10-16T08:38:38.459317314Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2021.10.16",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.1.1",
+          "commits": [
+            {
+              "SHA": "a7704e79",
+              "Subject": "Set TypeMeta for converter methods (#15)"
+            },
+            {
+              "SHA": "2ccd9780",
+              "Subject": "Fix jwt-go security vulnerability (#14)"
+            },
+            {
+              "SHA": "7c884131",
+              "Subject": "Fix jwt-go security vulnerability (#13)"
+            },
+            {
+              "SHA": "660e4478",
+              "Subject": "Update dependencies to publish SiteInfo (#12)"
+            },
+            {
+              "SHA": "c175c94c",
+              "Subject": "Update repository config (#11)"
+            },
+            {
+              "SHA": "aabe0c90",
+              "Subject": "Rename minikube to kind (#10)"
+            },
+            {
+              "SHA": "4216e746",
+              "Subject": "Remove deprecated fields (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v13.0.1",
+          "commits": [
+            {
+              "SHA": "1f65f08c",
+              "Subject": "Prepare for release v13.0.1 (#24)"
+            },
+            {
+              "SHA": "89dcd122",
+              "Subject": "Run separate operator and webhook server pods (#23)"
+            },
+            {
+              "SHA": "f5621d0d",
+              "Subject": "Fix jwt-go security vulnerability (#21)"
+            },
+            {
+              "SHA": "b968bc02",
+              "Subject": "Use nats.go v1.13.0 (#20)"
+            },
+            {
+              "SHA": "e3c0c421",
+              "Subject": "Setup SiteInfo publisher (#19)"
+            },
+            {
+              "SHA": "5a3f21d3",
+              "Subject": "Update dependencies to publish SiteInfo (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2021.10.16",
+          "commits": [
+            {
+              "SHA": "c609411",
+              "Subject": "Prepare for release v2021.10.16 (#91)"
+            },
+            {
+              "SHA": "66bc3ad",
+              "Subject": "Use separate deployments for operator and webhook server (#90)"
+            },
+            {
+              "SHA": "b2d8453",
+              "Subject": "Fix jwt-go security vulnerability (#89)"
+            },
+            {
+              "SHA": "de86de2",
+              "Subject": "Update dependencies to publish SiteInfo (#88)"
+            },
+            {
+              "SHA": "0e722e0",
+              "Subject": "Update repository config (#87)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2021.10.16",
+          "commits": [
+            {
+              "SHA": "d651ee6",
+              "Subject": "Prepare for release v2021.10.16 (#1599)"
+            },
+            {
+              "SHA": "17e5124",
+              "Subject": "Replace reference to minikube with kind"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
