@@ -1,0 +1,24 @@
+{
+  "product_line": "Voyager",
+  "release": "v2021.10.17",
+  "release_date": "2021-10-16T11:45:23.18089433Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2021.10.17",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.1.2",
+          "commits": [
+            {
+              "SHA": "1e37c726",
+              "Subject": "Recover from conversion panic (#16)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
