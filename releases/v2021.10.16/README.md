@@ -28,3 +28,15 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2021.10.16](https://github.com/voyagermesh/installer/releases/tag/v2021.10.16)
+
+- [c609411](https://github.com/voyagermesh/installer/commit/c609411) Prepare for release v2021.10.16 (#91)
+- [66bc3ad](https://github.com/voyagermesh/installer/commit/66bc3ad) Use separate deployments for operator and webhook server (#90)
+- [b2d8453](https://github.com/voyagermesh/installer/commit/b2d8453) Fix jwt-go security vulnerability (#89)
+- [de86de2](https://github.com/voyagermesh/installer/commit/de86de2) Update dependencies to publish SiteInfo (#88)
+- [0e722e0](https://github.com/voyagermesh/installer/commit/0e722e0) Update repository config (#87)
+
+
+

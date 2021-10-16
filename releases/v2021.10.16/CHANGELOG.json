@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2021.10.16",
-  "release_date": "2021-10-16T07:53:41.27723593Z",
+  "release_date": "2021-10-16T08:26:57.358645918Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2021.10.16",
   "kubernetes_version": "1.19+",
@@ -73,6 +73,36 @@
             {
               "SHA": "5a3f21d3",
               "Subject": "Update dependencies to publish SiteInfo (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2021.10.16",
+          "commits": [
+            {
+              "SHA": "c609411",
+              "Subject": "Prepare for release v2021.10.16 (#91)"
+            },
+            {
+              "SHA": "66bc3ad",
+              "Subject": "Use separate deployments for operator and webhook server (#90)"
+            },
+            {
+              "SHA": "b2d8453",
+              "Subject": "Fix jwt-go security vulnerability (#89)"
+            },
+            {
+              "SHA": "de86de2",
+              "Subject": "Update dependencies to publish SiteInfo (#88)"
+            },
+            {
+              "SHA": "0e722e0",
+              "Subject": "Update repository config (#87)"
             }
           ]
         }
