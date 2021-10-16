@@ -9,3 +9,13 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v13.0.2](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v13.0.2)
+
+- [dab93b5e](https://github.com/voyagermesh/haproxy-ingress/commit/dab93b5e) Prepare for release v13.0.2 (#26)
+- [42ef435b](https://github.com/voyagermesh/haproxy-ingress/commit/42ef435b) Log ensure crd error without failing operator (#25)
+- [29e080ba](https://github.com/voyagermesh/haproxy-ingress/commit/29e080ba) Fix flag conflict
+
+
+

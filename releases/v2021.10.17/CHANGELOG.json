@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2021.10.17",
-  "release_date": "2021-10-16T11:45:23.18089433Z",
+  "release_date": "2021-10-16T11:51:12.158497942Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2021.10.17",
   "kubernetes_version": "1.19+",
@@ -15,6 +15,28 @@
             {
               "SHA": "1e37c726",
               "Subject": "Recover from conversion panic (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v13.0.2",
+          "commits": [
+            {
+              "SHA": "dab93b5e",
+              "Subject": "Prepare for release v13.0.2 (#26)"
+            },
+            {
+              "SHA": "42ef435b",
+              "Subject": "Log ensure crd error without failing operator (#25)"
+            },
+            {
+              "SHA": "29e080ba",
+              "Subject": "Fix flag conflict"
             }
           ]
         }
