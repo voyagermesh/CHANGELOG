@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2021.10.18",
-  "release_date": "2021-10-18T03:57:39.629817278Z",
+  "release_date": "2021-10-18T04:22:44.92595461Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2021.10.18",
   "kubernetes_version": "1.19+",
@@ -67,6 +67,20 @@
             {
               "SHA": "0f4310a6",
               "Subject": "Fix conversion panic (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2021.10.18",
+          "commits": [
+            {
+              "SHA": "7a4972c",
+              "Subject": "Prepare for release v2021.10.18 (#93)"
             }
           ]
         }

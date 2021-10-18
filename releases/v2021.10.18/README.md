@@ -31,3 +31,11 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2021.10.18](https://github.com/voyagermesh/installer/releases/tag/v2021.10.18)
+
+- [7a4972c](https://github.com/voyagermesh/installer/commit/7a4972c) Prepare for release v2021.10.18 (#93)
+
+
+
