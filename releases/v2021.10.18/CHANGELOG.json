@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2021.10.18",
-  "release_date": "2021-10-18T04:22:44.92595461Z",
+  "release_date": "2021-10-18T04:34:34.625013857Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2021.10.18",
   "kubernetes_version": "1.19+",
@@ -81,6 +81,28 @@
             {
               "SHA": "7a4972c",
               "Subject": "Prepare for release v2021.10.18 (#93)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2021.10.18",
+          "commits": [
+            {
+              "SHA": "9833cd1",
+              "Subject": "Prepare for release v2021.10.18 (#1603)"
+            },
+            {
+              "SHA": "430eafb",
+              "Subject": "Move operator reference docs (#1602)"
+            },
+            {
+              "SHA": "4d8e6e8",
+              "Subject": "Update docs for voyagermesh/cli@64ac3b4c (#1601)"
             }
           ]
         }

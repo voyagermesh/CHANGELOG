@@ -39,3 +39,13 @@
 
 
 
+## [voyagermesh/voyager](https://github.com/voyagermesh/voyager)
+
+### [v2021.10.18](https://github.com/voyagermesh/voyager/releases/tag/v2021.10.18)
+
+- [9833cd1](https://github.com/voyagermesh/voyager/commit/9833cd1) Prepare for release v2021.10.18 (#1603)
+- [430eafb](https://github.com/voyagermesh/voyager/commit/430eafb) Move operator reference docs (#1602)
+- [4d8e6e8](https://github.com/voyagermesh/voyager/commit/4d8e6e8) Update docs for voyagermesh/cli@64ac3b4c (#1601)
+
+
+
