@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2021.10.18",
-  "release_date": "2021-10-18T03:38:45.346990054Z",
+  "release_date": "2021-10-18T03:46:49.629126587Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2021.10.18",
   "kubernetes_version": "1.19+",
@@ -19,6 +19,20 @@
             {
               "SHA": "1fcd5596",
               "Subject": "Remove kubectl.kubernetes.io/last-applied-configuration annotation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.3",
+          "commits": [
+            {
+              "SHA": "115ccc1",
+              "Subject": "Prepare for release v0.0.3 (#2)"
             }
           ]
         }

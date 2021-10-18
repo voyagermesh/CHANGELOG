@@ -10,3 +10,11 @@
 
 
 
+## [voyagermesh/cli](https://github.com/voyagermesh/cli)
+
+### [v0.0.3](https://github.com/voyagermesh/cli/releases/tag/v0.0.3)
+
+- [115ccc1](https://github.com/voyagermesh/cli/commit/115ccc1) Prepare for release v0.0.3 (#2)
+
+
+
