@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2021.10.18",
-  "release_date": "2021-10-18T03:46:49.629126587Z",
+  "release_date": "2021-10-18T03:57:39.629817278Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2021.10.18",
   "kubernetes_version": "1.19+",
@@ -33,6 +33,40 @@
             {
               "SHA": "115ccc1",
               "Subject": "Prepare for release v0.0.3 (#2)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v13.0.3",
+          "commits": [
+            {
+              "SHA": "bf746ef6",
+              "Subject": "Prepare for release v13.0.3 (#30)"
+            },
+            {
+              "SHA": "73778780",
+              "Subject": "Remove check and convert commands"
+            },
+            {
+              "SHA": "5755c97e",
+              "Subject": "Move reference docs to a sub menu (#29)"
+            },
+            {
+              "SHA": "8e5ab525",
+              "Subject": "Load HAProxy templates using git submodule (#28)"
+            },
+            {
+              "SHA": "69192031",
+              "Subject": "Add haproxy-templates git submodule"
+            },
+            {
+              "SHA": "0f4310a6",
+              "Subject": "Fix conversion panic (#27)"
             }
           ]
         }

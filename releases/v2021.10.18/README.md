@@ -18,3 +18,16 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v13.0.3](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v13.0.3)
+
+- [bf746ef6](https://github.com/voyagermesh/haproxy-ingress/commit/bf746ef6) Prepare for release v13.0.3 (#30)
+- [73778780](https://github.com/voyagermesh/haproxy-ingress/commit/73778780) Remove check and convert commands
+- [5755c97e](https://github.com/voyagermesh/haproxy-ingress/commit/5755c97e) Move reference docs to a sub menu (#29)
+- [8e5ab525](https://github.com/voyagermesh/haproxy-ingress/commit/8e5ab525) Load HAProxy templates using git submodule (#28)
+- [69192031](https://github.com/voyagermesh/haproxy-ingress/commit/69192031) Add haproxy-templates git submodule
+- [0f4310a6](https://github.com/voyagermesh/haproxy-ingress/commit/0f4310a6) Fix conversion panic (#27)
+
+
+
