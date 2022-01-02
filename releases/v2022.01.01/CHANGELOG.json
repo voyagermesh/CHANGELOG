@@ -1,0 +1,132 @@
+{
+  "product_line": "Voyager",
+  "release": "v2022.01.01",
+  "release_date": "2022-01-02T04:02:03.766233029Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2022.01.01",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "b9ccd598",
+              "Subject": "Support proxy security context (#21)"
+            },
+            {
+              "SHA": "1991e135",
+              "Subject": "Update repository config (#20)"
+            },
+            {
+              "SHA": "0393f8de",
+              "Subject": "Update repository config (#19)"
+            },
+            {
+              "SHA": "f792df1d",
+              "Subject": "Fix satori/go.uuid security vulnerability (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.4",
+          "commits": [
+            {
+              "SHA": "7ee2d31",
+              "Subject": "Prepare for release v0.0.4 (#3)"
+            },
+            {
+              "SHA": "979d215",
+              "Subject": "Correctly initialize klog flags"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v14.0.0",
+          "commits": [
+            {
+              "SHA": "cdb54de8",
+              "Subject": "Prepare for release v14.0.0 (#34)"
+            },
+            {
+              "SHA": "e591ca27",
+              "Subject": "Log changed files when haproxy is reloaded (#33)"
+            },
+            {
+              "SHA": "83a3b1f0",
+              "Subject": "Various cleanup (#32)"
+            },
+            {
+              "SHA": "1be18011",
+              "Subject": "Update configreader"
+            },
+            {
+              "SHA": "77b702a2",
+              "Subject": "Fix satori/go.uuid security vulnerability (#31)"
+            },
+            {
+              "SHA": "b371aae6",
+              "Subject": "update templates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2022.01.01",
+          "commits": [
+            {
+              "SHA": "0d683d5",
+              "Subject": "Prepare for release v2022.01.01 (#97)"
+            },
+            {
+              "SHA": "3583265",
+              "Subject": "Remove enableAnalytics flag"
+            },
+            {
+              "SHA": "21e6643",
+              "Subject": "Update default HAProxy version to 2.5.0 (#96)"
+            },
+            {
+              "SHA": "c3f75c3",
+              "Subject": "Update repository config (#95)"
+            },
+            {
+              "SHA": "2a22b46",
+              "Subject": "Fix satori/go.uuid security vulnerability (#94)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2022.01.01",
+          "commits": [
+            {
+              "SHA": "3f82047",
+              "Subject": "Prepare for release v2022.01.01 (#1604)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
