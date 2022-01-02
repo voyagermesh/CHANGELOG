@@ -1,0 +1,36 @@
+{
+  "product_line": "Voyager",
+  "release": "v2022.01.01",
+  "release_date": "2022-01-02T02:27:39.533353278Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2022.01.01",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "b9ccd598",
+              "Subject": "Support proxy security context (#21)"
+            },
+            {
+              "SHA": "1991e135",
+              "Subject": "Update repository config (#20)"
+            },
+            {
+              "SHA": "0393f8de",
+              "Subject": "Update repository config (#19)"
+            },
+            {
+              "SHA": "f792df1d",
+              "Subject": "Fix satori/go.uuid security vulnerability (#18)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
