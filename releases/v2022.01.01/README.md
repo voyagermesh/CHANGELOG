@@ -34,3 +34,15 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2022.01.01](https://github.com/voyagermesh/installer/releases/tag/v2022.01.01)
+
+- [0d683d5](https://github.com/voyagermesh/installer/commit/0d683d5) Prepare for release v2022.01.01 (#97)
+- [3583265](https://github.com/voyagermesh/installer/commit/3583265) Remove enableAnalytics flag
+- [21e6643](https://github.com/voyagermesh/installer/commit/21e6643) Update default HAProxy version to 2.5.0 (#96)
+- [c3f75c3](https://github.com/voyagermesh/installer/commit/c3f75c3) Update repository config (#95)
+- [2a22b46](https://github.com/voyagermesh/installer/commit/2a22b46) Fix satori/go.uuid security vulnerability (#94)
+
+
+

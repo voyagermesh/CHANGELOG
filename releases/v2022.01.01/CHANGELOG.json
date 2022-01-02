@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2022.01.01",
-  "release_date": "2022-01-02T02:54:14.438838901Z",
+  "release_date": "2022-01-02T03:50:11.811356532Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2022.01.01",
   "kubernetes_version": "1.19+",
@@ -79,6 +79,36 @@
             {
               "SHA": "b371aae6",
               "Subject": "update templates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2022.01.01",
+          "commits": [
+            {
+              "SHA": "0d683d5",
+              "Subject": "Prepare for release v2022.01.01 (#97)"
+            },
+            {
+              "SHA": "3583265",
+              "Subject": "Remove enableAnalytics flag"
+            },
+            {
+              "SHA": "21e6643",
+              "Subject": "Update default HAProxy version to 2.5.0 (#96)"
+            },
+            {
+              "SHA": "c3f75c3",
+              "Subject": "Update repository config (#95)"
+            },
+            {
+              "SHA": "2a22b46",
+              "Subject": "Fix satori/go.uuid security vulnerability (#94)"
             }
           ]
         }
