@@ -12,6 +12,15 @@
 
 
 
+## [voyagermesh/cli](https://github.com/voyagermesh/cli)
+
+### [v0.0.4](https://github.com/voyagermesh/cli/releases/tag/v0.0.4)
+
+- [7ee2d31](https://github.com/voyagermesh/cli/commit/7ee2d31) Prepare for release v0.0.4 (#3)
+- [979d215](https://github.com/voyagermesh/cli/commit/979d215) Correctly initialize klog flags
+
+
+
 ## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
 
 ### [v14.0.0](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v14.0.0)
