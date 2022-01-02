@@ -12,3 +12,16 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v14.0.0](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v14.0.0)
+
+- [cdb54de8](https://github.com/voyagermesh/haproxy-ingress/commit/cdb54de8) Prepare for release v14.0.0 (#34)
+- [e591ca27](https://github.com/voyagermesh/haproxy-ingress/commit/e591ca27) Log changed files when haproxy is reloaded (#33)
+- [83a3b1f0](https://github.com/voyagermesh/haproxy-ingress/commit/83a3b1f0) Various cleanup (#32)
+- [1be18011](https://github.com/voyagermesh/haproxy-ingress/commit/1be18011) Update configreader
+- [77b702a2](https://github.com/voyagermesh/haproxy-ingress/commit/77b702a2) Fix satori/go.uuid security vulnerability (#31)
+- [b371aae6](https://github.com/voyagermesh/haproxy-ingress/commit/b371aae6) update templates
+
+
+
