@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2022.01.01",
-  "release_date": "2022-01-02T03:50:11.811356532Z",
+  "release_date": "2022-01-02T04:02:03.766233029Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2022.01.01",
   "kubernetes_version": "1.19+",
@@ -109,6 +109,20 @@
             {
               "SHA": "2a22b46",
               "Subject": "Fix satori/go.uuid security vulnerability (#94)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2022.01.01",
+          "commits": [
+            {
+              "SHA": "3f82047",
+              "Subject": "Prepare for release v2022.01.01 (#1604)"
             }
           ]
         }
