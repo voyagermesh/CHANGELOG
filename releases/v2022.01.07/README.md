@@ -10,3 +10,12 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2022.01.07](https://github.com/voyagermesh/installer/releases/tag/v2022.01.07)
+
+- [912f293](https://github.com/voyagermesh/installer/commit/912f293) Prepare for release v2022.01.07 (#98)
+- [63c4565](https://github.com/voyagermesh/installer/commit/63c4565) Enable arm64 nodes by default
+
+
+

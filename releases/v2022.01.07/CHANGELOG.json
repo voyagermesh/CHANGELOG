@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2022.01.07",
-  "release_date": "2022-01-07T20:40:55.088251494Z",
+  "release_date": "2022-01-07T20:57:13.310937201Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2022.01.07",
   "kubernetes_version": "1.19+",
@@ -19,6 +19,24 @@
             {
               "SHA": "ddcf94de",
               "Subject": "Run trivy scanner (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2022.01.07",
+          "commits": [
+            {
+              "SHA": "912f293",
+              "Subject": "Prepare for release v2022.01.07 (#98)"
+            },
+            {
+              "SHA": "63c4565",
+              "Subject": "Enable arm64 nodes by default"
             }
           ]
         }
