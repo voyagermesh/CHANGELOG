@@ -1,0 +1,28 @@
+{
+  "product_line": "Voyager",
+  "release": "v2022.01.07",
+  "release_date": "2022-01-07T20:40:55.088251494Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2022.01.07",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v14.0.1",
+          "commits": [
+            {
+              "SHA": "f9861aed",
+              "Subject": "Log diffs for changed config files (#36)"
+            },
+            {
+              "SHA": "ddcf94de",
+              "Subject": "Run trivy scanner (#35)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
