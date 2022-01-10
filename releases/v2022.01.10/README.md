@@ -9,6 +9,14 @@
 
 
 
+## [voyagermesh/cli](https://github.com/voyagermesh/cli)
+
+### [v0.0.5](https://github.com/voyagermesh/cli/releases/tag/v0.0.5)
+
+- [1824d2f](https://github.com/voyagermesh/cli/commit/1824d2f) Prepare for release v0.0.5 (#4)
+
+
+
 ## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
 
 ### [v14.1.0](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v14.1.0)

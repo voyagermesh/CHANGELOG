@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2022.01.10",
-  "release_date": "2022-01-10T12:12:05.309201905Z",
+  "release_date": "2022-01-10T12:18:25.682645598Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2022.01.10",
   "kubernetes_version": "1.19+",
@@ -15,6 +15,20 @@
             {
               "SHA": "7d6c4d04",
               "Subject": "Convert ProxySecurityContext from v1beta1 to v1 api (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.5",
+          "commits": [
+            {
+              "SHA": "1824d2f",
+              "Subject": "Prepare for release v0.0.5 (#4)"
             }
           ]
         }
