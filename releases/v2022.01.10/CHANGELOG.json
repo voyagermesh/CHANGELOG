@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2022.01.10",
-  "release_date": "2022-01-10T12:18:25.682645598Z",
+  "release_date": "2022-01-10T12:30:05.252220191Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2022.01.10",
   "kubernetes_version": "1.19+",
@@ -51,6 +51,24 @@
             {
               "SHA": "b48d48f9",
               "Subject": "Use HAProxy 2.5 (no patch) version"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2022.01.10",
+          "commits": [
+            {
+              "SHA": "dac9c9b",
+              "Subject": "Prepare for release v2022.01.10 (#100)"
+            },
+            {
+              "SHA": "40a8b9a",
+              "Subject": "Use HAProxy 2.5-alpine version (#99)"
             }
           ]
         }

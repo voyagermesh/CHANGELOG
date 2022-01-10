@@ -27,3 +27,12 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2022.01.10](https://github.com/voyagermesh/installer/releases/tag/v2022.01.10)
+
+- [dac9c9b](https://github.com/voyagermesh/installer/commit/dac9c9b) Prepare for release v2022.01.10 (#100)
+- [40a8b9a](https://github.com/voyagermesh/installer/commit/40a8b9a) Use HAProxy 2.5-alpine version (#99)
+
+
+
