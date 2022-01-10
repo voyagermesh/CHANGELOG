@@ -1,0 +1,92 @@
+{
+  "product_line": "Voyager",
+  "release": "v2022.01.10",
+  "release_date": "2022-01-10T12:42:50.537887329Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2022.01.10",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "7d6c4d04",
+              "Subject": "Convert ProxySecurityContext from v1beta1 to v1 api (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.5",
+          "commits": [
+            {
+              "SHA": "1824d2f",
+              "Subject": "Prepare for release v0.0.5 (#4)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v14.1.0",
+          "commits": [
+            {
+              "SHA": "96ea81cb",
+              "Subject": "Prepare for release v14.1.0 (#38)"
+            },
+            {
+              "SHA": "9df118f9",
+              "Subject": "Mount emptyDir to /var/run (#37)"
+            },
+            {
+              "SHA": "b48d48f9",
+              "Subject": "Use HAProxy 2.5 (no patch) version"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2022.01.10",
+          "commits": [
+            {
+              "SHA": "dac9c9b",
+              "Subject": "Prepare for release v2022.01.10 (#100)"
+            },
+            {
+              "SHA": "40a8b9a",
+              "Subject": "Use HAProxy 2.5-alpine version (#99)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2022.01.10",
+          "commits": [
+            {
+              "SHA": "c983a49",
+              "Subject": "Prepare for release v2022.01.10 (#1606)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
