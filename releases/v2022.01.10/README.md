@@ -9,3 +9,13 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v14.1.0](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v14.1.0)
+
+- [96ea81cb](https://github.com/voyagermesh/haproxy-ingress/commit/96ea81cb) Prepare for release v14.1.0 (#38)
+- [9df118f9](https://github.com/voyagermesh/haproxy-ingress/commit/9df118f9) Mount emptyDir to /var/run (#37)
+- [b48d48f9](https://github.com/voyagermesh/haproxy-ingress/commit/b48d48f9) Use HAProxy 2.5 (no patch) version
+
+
+
