@@ -1,0 +1,28 @@
+{
+  "product_line": "Voyager",
+  "release": "v2022.02.22",
+  "release_date": "2022-02-18T21:48:51.690035632Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2022.02.22",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "1f3d5fa1",
+              "Subject": "Update SiteInfo (#24)"
+            },
+            {
+              "SHA": "54c9652d",
+              "Subject": "Update repository config (#23)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
