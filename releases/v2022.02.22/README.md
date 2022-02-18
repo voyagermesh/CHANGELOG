@@ -28,3 +28,14 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2022.02.22](https://github.com/voyagermesh/installer/releases/tag/v2022.02.22)
+
+- [ee7b622](https://github.com/voyagermesh/installer/commit/ee7b622) Prepare for release v2022.02.22 (#105)
+- [bfb6acb](https://github.com/voyagermesh/installer/commit/bfb6acb) Update repository config (#104)
+- [c171823](https://github.com/voyagermesh/installer/commit/c171823) Use well-known os label (#103)
+- [d1d214e](https://github.com/voyagermesh/installer/commit/d1d214e) Update SiteInfo (#102)
+
+
+

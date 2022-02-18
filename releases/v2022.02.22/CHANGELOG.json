@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T22:58:11.44337285Z",
+  "release_date": "2022-02-18T23:29:49.684724497Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2022.02.22",
   "kubernetes_version": "1.19+",
@@ -55,6 +55,32 @@
             {
               "SHA": "90e4b8c3",
               "Subject": "Update SiteInfo (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "ee7b622",
+              "Subject": "Prepare for release v2022.02.22 (#105)"
+            },
+            {
+              "SHA": "bfb6acb",
+              "Subject": "Update repository config (#104)"
+            },
+            {
+              "SHA": "c171823",
+              "Subject": "Use well-known os label (#103)"
+            },
+            {
+              "SHA": "d1d214e",
+              "Subject": "Update SiteInfo (#102)"
             }
           ]
         }
