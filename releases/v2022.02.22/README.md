@@ -39,3 +39,12 @@
 
 
 
+## [voyagermesh/voyager](https://github.com/voyagermesh/voyager)
+
+### [v2022.02.22](https://github.com/voyagermesh/voyager/releases/tag/v2022.02.22)
+
+- [03a002a](https://github.com/voyagermesh/voyager/commit/03a002a) Prepare for release v2022.02.22 (#1608)
+- [ae96861](https://github.com/voyagermesh/voyager/commit/ae96861) Add notice for removal of 11.x and 12.x
+
+
+
