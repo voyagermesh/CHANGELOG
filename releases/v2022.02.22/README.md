@@ -18,3 +18,13 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v14.2.0](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v14.2.0)
+
+- [1e0fe986](https://github.com/voyagermesh/haproxy-ingress/commit/1e0fe986) Prepare for release v14.2.0 (#41)
+- [42297611](https://github.com/voyagermesh/haproxy-ingress/commit/42297611) Publish GenericResource event (#40)
+- [90e4b8c3](https://github.com/voyagermesh/haproxy-ingress/commit/90e4b8c3) Update SiteInfo (#39)
+
+
+
