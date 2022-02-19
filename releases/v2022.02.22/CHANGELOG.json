@@ -1,0 +1,108 @@
+{
+  "product_line": "Voyager",
+  "release": "v2022.02.22",
+  "release_date": "2022-02-18T23:51:51.336343844Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2022.02.22",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "1f3d5fa1",
+              "Subject": "Update SiteInfo (#24)"
+            },
+            {
+              "SHA": "54c9652d",
+              "Subject": "Update repository config (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.6",
+          "commits": [
+            {
+              "SHA": "0adaf81",
+              "Subject": "Prepare for release v0.0.6 (#5)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v14.2.0",
+          "commits": [
+            {
+              "SHA": "1e0fe986",
+              "Subject": "Prepare for release v14.2.0 (#41)"
+            },
+            {
+              "SHA": "42297611",
+              "Subject": "Publish GenericResource event (#40)"
+            },
+            {
+              "SHA": "90e4b8c3",
+              "Subject": "Update SiteInfo (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "ee7b622",
+              "Subject": "Prepare for release v2022.02.22 (#105)"
+            },
+            {
+              "SHA": "bfb6acb",
+              "Subject": "Update repository config (#104)"
+            },
+            {
+              "SHA": "c171823",
+              "Subject": "Use well-known os label (#103)"
+            },
+            {
+              "SHA": "d1d214e",
+              "Subject": "Update SiteInfo (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "03a002a",
+              "Subject": "Prepare for release v2022.02.22 (#1608)"
+            },
+            {
+              "SHA": "ae96861",
+              "Subject": "Add notice for removal of 11.x and 12.x"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
