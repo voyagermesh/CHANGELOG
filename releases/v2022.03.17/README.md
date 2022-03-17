@@ -36,3 +36,13 @@
 
 
 
+## [voyagermesh/voyager](https://github.com/voyagermesh/voyager)
+
+### [v2022.03.17](https://github.com/voyagermesh/voyager/releases/tag/v2022.03.17)
+
+- [2150bcd](https://github.com/voyagermesh/voyager/commit/2150bcd) Prepare for release v2022.03.17 (#1611)
+- [1ef951a](https://github.com/voyagermesh/voyager/commit/1ef951a) Use Go 1.18 (#1610)
+- [704f8a2](https://github.com/voyagermesh/voyager/commit/704f8a2) make fmt (#1609)
+
+
+
