@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2022.03.17",
-  "release_date": "2022-03-17T21:59:58.647161314Z",
+  "release_date": "2022-03-17T22:10:06.229892113Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2022.03.17",
   "kubernetes_version": "1.19+",
@@ -27,6 +27,36 @@
             {
               "SHA": "0bc96a7",
               "Subject": "make fmt (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v14.2.1",
+          "commits": [
+            {
+              "SHA": "73961286",
+              "Subject": "Prepare for release v14.2.1 (#46)"
+            },
+            {
+              "SHA": "c9319f58",
+              "Subject": "Use Go 1.18 (#43)"
+            },
+            {
+              "SHA": "56e996e9",
+              "Subject": "Fix CVEs reported in trivy scanner (#45)"
+            },
+            {
+              "SHA": "6609a2e3",
+              "Subject": "git submodule updated"
+            },
+            {
+              "SHA": "cc3ccde8",
+              "Subject": "make fmt (#42)"
             }
           ]
         }

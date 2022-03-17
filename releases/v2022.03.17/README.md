@@ -12,3 +12,15 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v14.2.1](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v14.2.1)
+
+- [73961286](https://github.com/voyagermesh/haproxy-ingress/commit/73961286) Prepare for release v14.2.1 (#46)
+- [c9319f58](https://github.com/voyagermesh/haproxy-ingress/commit/c9319f58) Use Go 1.18 (#43)
+- [56e996e9](https://github.com/voyagermesh/haproxy-ingress/commit/56e996e9) Fix CVEs reported in trivy scanner (#45)
+- [6609a2e3](https://github.com/voyagermesh/haproxy-ingress/commit/6609a2e3) git submodule updated
+- [cc3ccde8](https://github.com/voyagermesh/haproxy-ingress/commit/cc3ccde8) make fmt (#42)
+
+
+
