@@ -1,0 +1,36 @@
+{
+  "product_line": "Voyager",
+  "release": "v2022.03.17",
+  "release_date": "2022-03-17T21:59:58.647161314Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2022.03.17",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.7",
+          "commits": [
+            {
+              "SHA": "16d852a",
+              "Subject": "Prepare for release v0.0.7 (#8)"
+            },
+            {
+              "SHA": "8b0b309",
+              "Subject": "Build darwin/arm64 images"
+            },
+            {
+              "SHA": "b68c523",
+              "Subject": "Use Go 1.18 (#7)"
+            },
+            {
+              "SHA": "0bc96a7",
+              "Subject": "make fmt (#6)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
