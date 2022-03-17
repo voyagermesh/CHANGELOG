@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2022.03.17",
-  "release_date": "2022-03-17T22:10:06.229892113Z",
+  "release_date": "2022-03-17T22:30:18.564898268Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2022.03.17",
   "kubernetes_version": "1.19+",
@@ -57,6 +57,36 @@
             {
               "SHA": "cc3ccde8",
               "Subject": "make fmt (#42)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2022.03.17",
+          "commits": [
+            {
+              "SHA": "f9d677a",
+              "Subject": "Prepare for release v2022.03.17 (#109)"
+            },
+            {
+              "SHA": "a1e348f",
+              "Subject": "Use k8s 1.23.3 in ci"
+            },
+            {
+              "SHA": "e1f4155",
+              "Subject": "Use Go 1.18 (#107)"
+            },
+            {
+              "SHA": "68be613",
+              "Subject": "Fix chart schema (#108)"
+            },
+            {
+              "SHA": "4bcfebc",
+              "Subject": "make fmt (#106)"
             }
           ]
         }

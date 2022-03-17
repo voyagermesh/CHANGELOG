@@ -24,3 +24,15 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2022.03.17](https://github.com/voyagermesh/installer/releases/tag/v2022.03.17)
+
+- [f9d677a](https://github.com/voyagermesh/installer/commit/f9d677a) Prepare for release v2022.03.17 (#109)
+- [a1e348f](https://github.com/voyagermesh/installer/commit/a1e348f) Use k8s 1.23.3 in ci
+- [e1f4155](https://github.com/voyagermesh/installer/commit/e1f4155) Use Go 1.18 (#107)
+- [68be613](https://github.com/voyagermesh/installer/commit/68be613) Fix chart schema (#108)
+- [4bcfebc](https://github.com/voyagermesh/installer/commit/4bcfebc) make fmt (#106)
+
+
+
