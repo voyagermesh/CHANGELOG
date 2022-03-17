@@ -1,0 +1,118 @@
+{
+  "product_line": "Voyager",
+  "release": "v2022.03.17",
+  "release_date": "2022-03-17T22:56:03.419256468Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2022.03.17",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.7",
+          "commits": [
+            {
+              "SHA": "16d852a",
+              "Subject": "Prepare for release v0.0.7 (#8)"
+            },
+            {
+              "SHA": "8b0b309",
+              "Subject": "Build darwin/arm64 images"
+            },
+            {
+              "SHA": "b68c523",
+              "Subject": "Use Go 1.18 (#7)"
+            },
+            {
+              "SHA": "0bc96a7",
+              "Subject": "make fmt (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v14.2.1",
+          "commits": [
+            {
+              "SHA": "73961286",
+              "Subject": "Prepare for release v14.2.1 (#46)"
+            },
+            {
+              "SHA": "c9319f58",
+              "Subject": "Use Go 1.18 (#43)"
+            },
+            {
+              "SHA": "56e996e9",
+              "Subject": "Fix CVEs reported in trivy scanner (#45)"
+            },
+            {
+              "SHA": "6609a2e3",
+              "Subject": "git submodule updated"
+            },
+            {
+              "SHA": "cc3ccde8",
+              "Subject": "make fmt (#42)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2022.03.17",
+          "commits": [
+            {
+              "SHA": "f9d677a",
+              "Subject": "Prepare for release v2022.03.17 (#109)"
+            },
+            {
+              "SHA": "a1e348f",
+              "Subject": "Use k8s 1.23.3 in ci"
+            },
+            {
+              "SHA": "e1f4155",
+              "Subject": "Use Go 1.18 (#107)"
+            },
+            {
+              "SHA": "68be613",
+              "Subject": "Fix chart schema (#108)"
+            },
+            {
+              "SHA": "4bcfebc",
+              "Subject": "make fmt (#106)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2022.03.17",
+          "commits": [
+            {
+              "SHA": "2150bcd",
+              "Subject": "Prepare for release v2022.03.17 (#1611)"
+            },
+            {
+              "SHA": "1ef951a",
+              "Subject": "Use Go 1.18 (#1610)"
+            },
+            {
+              "SHA": "704f8a2",
+              "Subject": "make fmt (#1609)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
