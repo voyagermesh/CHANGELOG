@@ -34,3 +34,11 @@
 
 
 
+## [voyagermesh/voyager](https://github.com/voyagermesh/voyager)
+
+### [v2022.04.13](https://github.com/voyagermesh/voyager/releases/tag/v2022.04.13)
+
+- [614f00f](https://github.com/voyagermesh/voyager/commit/614f00f) Prepare for release v2022.04.13 (#1612)
+
+
+
