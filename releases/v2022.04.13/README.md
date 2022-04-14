@@ -17,3 +17,12 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v14.2.2](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v14.2.2)
+
+- [8182f293](https://github.com/voyagermesh/haproxy-ingress/commit/8182f293) Prepare for release v14.2.2 (#47)
+- [91478824](https://github.com/voyagermesh/haproxy-ingress/commit/91478824) Add scanner
+
+
+
