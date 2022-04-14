@@ -26,3 +26,11 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2022.04.13](https://github.com/voyagermesh/installer/releases/tag/v2022.04.13)
+
+- [2172ee0](https://github.com/voyagermesh/installer/commit/2172ee0) Prepare for release v2022.04.13 (#110)
+
+
+
