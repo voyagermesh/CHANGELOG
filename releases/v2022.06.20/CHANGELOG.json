@@ -1,0 +1,124 @@
+{
+  "product_line": "Voyager",
+  "release": "v2022.06.20",
+  "release_date": "2022-06-17T14:04:38.576423241Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2022.06.20",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "9a6e26b7",
+              "Subject": "Update to k8s 1.24 toolchain (#29)"
+            },
+            {
+              "SHA": "6bfee384",
+              "Subject": "Test against Kubernetes 1.24.0 (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.9",
+          "commits": [
+            {
+              "SHA": "696408d",
+              "Subject": "Prepare for release v0.0.9 (#11)"
+            },
+            {
+              "SHA": "7b82992",
+              "Subject": "Update to k8s 1.24 toolchain (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v15.0.0",
+          "commits": [
+            {
+              "SHA": "b9b684018",
+              "Subject": "Prepare for release v15.0.0 (#51)"
+            },
+            {
+              "SHA": "804b350d9",
+              "Subject": "Fix port detection for external name type service (#50)"
+            },
+            {
+              "SHA": "126137a90",
+              "Subject": "Fix CVE-2022-1586 CVE-2022-1587"
+            },
+            {
+              "SHA": "0a61fc9c4",
+              "Subject": "Update to k8s 1.24 toolchain (#49)"
+            },
+            {
+              "SHA": "46b78cfed",
+              "Subject": "Test against Kubernetes 1.24.0 (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2022.06.20",
+          "commits": [
+            {
+              "SHA": "61e1f75",
+              "Subject": "Prepare for release v2022.06.20 (#113)"
+            },
+            {
+              "SHA": "d207168",
+              "Subject": "Get operator from chart appVersion"
+            },
+            {
+              "SHA": "9bc4b6c",
+              "Subject": "Update to k8s 1.24 toolchain (#112)"
+            },
+            {
+              "SHA": "84ab347",
+              "Subject": "Test against Kubernetes 1.24.0 (#111)"
+            },
+            {
+              "SHA": "02028da",
+              "Subject": "Change MY_POD_ env prefix to POD_"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2022.06.20",
+          "commits": [
+            {
+              "SHA": "6536e30",
+              "Subject": "Prepare for release v2022.06.20 (#1616)"
+            },
+            {
+              "SHA": "999be70",
+              "Subject": "Test against Kubernetes 1.24.0 (#1613)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
