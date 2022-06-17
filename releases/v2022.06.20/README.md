@@ -19,3 +19,15 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v15.0.0](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v15.0.0)
+
+- [b9b68401](https://github.com/voyagermesh/haproxy-ingress/commit/b9b684018) Prepare for release v15.0.0 (#51)
+- [804b350d](https://github.com/voyagermesh/haproxy-ingress/commit/804b350d9) Fix port detection for external name type service (#50)
+- [126137a9](https://github.com/voyagermesh/haproxy-ingress/commit/126137a90) Fix CVE-2022-1586 CVE-2022-1587
+- [0a61fc9c](https://github.com/voyagermesh/haproxy-ingress/commit/0a61fc9c4) Update to k8s 1.24 toolchain (#49)
+- [46b78cfe](https://github.com/voyagermesh/haproxy-ingress/commit/46b78cfed) Test against Kubernetes 1.24.0 (#48)
+
+
+

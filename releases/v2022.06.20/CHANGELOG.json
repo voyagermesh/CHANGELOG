@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2022.06.20",
-  "release_date": "2022-06-17T12:10:58.562180255Z",
+  "release_date": "2022-06-17T12:27:56.875369878Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2022.06.20",
   "kubernetes_version": "1.19+",
@@ -37,6 +37,36 @@
             {
               "SHA": "7b82992",
               "Subject": "Update to k8s 1.24 toolchain (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v15.0.0",
+          "commits": [
+            {
+              "SHA": "b9b684018",
+              "Subject": "Prepare for release v15.0.0 (#51)"
+            },
+            {
+              "SHA": "804b350d9",
+              "Subject": "Fix port detection for external name type service (#50)"
+            },
+            {
+              "SHA": "126137a90",
+              "Subject": "Fix CVE-2022-1586 CVE-2022-1587"
+            },
+            {
+              "SHA": "0a61fc9c4",
+              "Subject": "Update to k8s 1.24 toolchain (#49)"
+            },
+            {
+              "SHA": "46b78cfed",
+              "Subject": "Test against Kubernetes 1.24.0 (#48)"
             }
           ]
         }
