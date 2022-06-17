@@ -43,3 +43,12 @@
 
 
 
+## [voyagermesh/voyager](https://github.com/voyagermesh/voyager)
+
+### [v2022.06.20](https://github.com/voyagermesh/voyager/releases/tag/v2022.06.20)
+
+- [6536e30](https://github.com/voyagermesh/voyager/commit/6536e30) Prepare for release v2022.06.20 (#1616)
+- [999be70](https://github.com/voyagermesh/voyager/commit/999be70) Test against Kubernetes 1.24.0 (#1613)
+
+
+

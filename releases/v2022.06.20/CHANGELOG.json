@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2022.06.20",
-  "release_date": "2022-06-17T13:01:11.320399418Z",
+  "release_date": "2022-06-17T14:04:38.576423241Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2022.06.20",
   "kubernetes_version": "1.19+",
@@ -97,6 +97,24 @@
             {
               "SHA": "02028da",
               "Subject": "Change MY_POD_ env prefix to POD_"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2022.06.20",
+          "commits": [
+            {
+              "SHA": "6536e30",
+              "Subject": "Prepare for release v2022.06.20 (#1616)"
+            },
+            {
+              "SHA": "999be70",
+              "Subject": "Test against Kubernetes 1.24.0 (#1613)"
             }
           ]
         }
