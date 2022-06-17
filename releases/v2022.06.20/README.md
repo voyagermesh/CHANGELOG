@@ -31,3 +31,15 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2022.06.20](https://github.com/voyagermesh/installer/releases/tag/v2022.06.20)
+
+- [61e1f75](https://github.com/voyagermesh/installer/commit/61e1f75) Prepare for release v2022.06.20 (#113)
+- [d207168](https://github.com/voyagermesh/installer/commit/d207168) Get operator from chart appVersion
+- [9bc4b6c](https://github.com/voyagermesh/installer/commit/9bc4b6c) Update to k8s 1.24 toolchain (#112)
+- [84ab347](https://github.com/voyagermesh/installer/commit/84ab347) Test against Kubernetes 1.24.0 (#111)
+- [02028da](https://github.com/voyagermesh/installer/commit/02028da) Change MY_POD_ env prefix to POD_
+
+
+

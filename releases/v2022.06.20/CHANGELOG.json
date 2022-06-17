@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2022.06.20",
-  "release_date": "2022-06-17T12:27:56.875369878Z",
+  "release_date": "2022-06-17T13:01:11.320399418Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2022.06.20",
   "kubernetes_version": "1.19+",
@@ -67,6 +67,36 @@
             {
               "SHA": "46b78cfed",
               "Subject": "Test against Kubernetes 1.24.0 (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2022.06.20",
+          "commits": [
+            {
+              "SHA": "61e1f75",
+              "Subject": "Prepare for release v2022.06.20 (#113)"
+            },
+            {
+              "SHA": "d207168",
+              "Subject": "Get operator from chart appVersion"
+            },
+            {
+              "SHA": "9bc4b6c",
+              "Subject": "Update to k8s 1.24 toolchain (#112)"
+            },
+            {
+              "SHA": "84ab347",
+              "Subject": "Test against Kubernetes 1.24.0 (#111)"
+            },
+            {
+              "SHA": "02028da",
+              "Subject": "Change MY_POD_ env prefix to POD_"
             }
           ]
         }
