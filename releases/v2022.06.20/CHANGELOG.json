@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2022.06.20",
-  "release_date": "2022-06-17T11:43:03.87784666Z",
+  "release_date": "2022-06-17T12:10:58.562180255Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2022.06.20",
   "kubernetes_version": "1.19+",
@@ -19,6 +19,24 @@
             {
               "SHA": "6bfee384",
               "Subject": "Test against Kubernetes 1.24.0 (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.9",
+          "commits": [
+            {
+              "SHA": "696408d",
+              "Subject": "Prepare for release v0.0.9 (#11)"
+            },
+            {
+              "SHA": "7b82992",
+              "Subject": "Update to k8s 1.24 toolchain (#10)"
             }
           ]
         }
