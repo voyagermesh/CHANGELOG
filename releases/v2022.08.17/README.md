@@ -28,3 +28,13 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2022.08.17](https://github.com/voyagermesh/installer/releases/tag/v2022.08.17)
+
+- [9725acc](https://github.com/voyagermesh/installer/commit/9725acc) Prepare for release v2022.08.17 (#116)
+- [eaf13e0](https://github.com/voyagermesh/installer/commit/eaf13e0) Use k8s 1.25 libs (#115)
+- [29170d3](https://github.com/voyagermesh/installer/commit/29170d3) Add permission for license-proxyserver (#114)
+
+
+
