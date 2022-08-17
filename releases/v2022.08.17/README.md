@@ -38,3 +38,12 @@
 
 
 
+## [voyagermesh/voyager](https://github.com/voyagermesh/voyager)
+
+### [v2022.08.17](https://github.com/voyagermesh/voyager/releases/tag/v2022.08.17)
+
+- [ea1b005](https://github.com/voyagermesh/voyager/commit/ea1b005) Prepare for release v2022.08.17 (#1619)
+- [bafbf37](https://github.com/voyagermesh/voyager/commit/bafbf37) Update docs for voyagermesh/cli@696408d5 (#1615)
+
+
+
