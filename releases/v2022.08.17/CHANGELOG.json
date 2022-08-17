@@ -1,0 +1,104 @@
+{
+  "product_line": "Voyager",
+  "release": "v2022.08.17",
+  "release_date": "2022-08-17T23:09:11.590726279Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2022.08.17",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "b0448934",
+              "Subject": "Use k8s 1.25 libs (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.10",
+          "commits": [
+            {
+              "SHA": "e5c1876",
+              "Subject": "Prepare for release v0.0.10 (#13)"
+            },
+            {
+              "SHA": "865f31f",
+              "Subject": "Use k8s 1.25 libs (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v16.0.0",
+          "commits": [
+            {
+              "SHA": "c4dcbf001",
+              "Subject": "Prepare for release v16.0.0 (#53)"
+            },
+            {
+              "SHA": "65d5fa3fb",
+              "Subject": "Use HAProxy 2.6"
+            },
+            {
+              "SHA": "fae4ad3a5",
+              "Subject": "Use k8s 1.25 libs (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2022.08.17",
+          "commits": [
+            {
+              "SHA": "9725acc",
+              "Subject": "Prepare for release v2022.08.17 (#116)"
+            },
+            {
+              "SHA": "eaf13e0",
+              "Subject": "Use k8s 1.25 libs (#115)"
+            },
+            {
+              "SHA": "29170d3",
+              "Subject": "Add permission for license-proxyserver (#114)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2022.08.17",
+          "commits": [
+            {
+              "SHA": "ea1b005",
+              "Subject": "Prepare for release v2022.08.17 (#1619)"
+            },
+            {
+              "SHA": "bafbf37",
+              "Subject": "Update docs for voyagermesh/cli@696408d5 (#1615)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
