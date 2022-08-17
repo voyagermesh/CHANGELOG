@@ -9,3 +9,12 @@
 
 
 
+## [voyagermesh/cli](https://github.com/voyagermesh/cli)
+
+### [v0.0.10](https://github.com/voyagermesh/cli/releases/tag/v0.0.10)
+
+- [e5c1876](https://github.com/voyagermesh/cli/commit/e5c1876) Prepare for release v0.0.10 (#13)
+- [865f31f](https://github.com/voyagermesh/cli/commit/865f31f) Use k8s 1.25 libs (#12)
+
+
+
