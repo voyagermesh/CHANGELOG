@@ -39,3 +39,15 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2022.12.11](https://github.com/voyagermesh/installer/releases/tag/v2022.12.11)
+
+- [d8dd39f](https://github.com/voyagermesh/installer/commit/d8dd39f) Prepare for release v2022.12.11 (#120)
+- [0f1c6c1](https://github.com/voyagermesh/installer/commit/0f1c6c1) Update kubectl version
+- [8decf70](https://github.com/voyagermesh/installer/commit/8decf70) Run GH actions on ubuntu-20.04 (#119)
+- [cd18ec8](https://github.com/voyagermesh/installer/commit/cd18ec8) Test against Kubernetes 1.25.0 (#118)
+- [18fefdf](https://github.com/voyagermesh/installer/commit/18fefdf) Use Go 1.19 (#117)
+
+
+

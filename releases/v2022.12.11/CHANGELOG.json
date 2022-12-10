@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2022.12.11",
-  "release_date": "2022-12-10T19:25:23.657486798Z",
+  "release_date": "2022-12-10T20:17:08.650289668Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2022.12.11",
   "kubernetes_version": "1.19+",
@@ -99,6 +99,36 @@
             {
               "SHA": "c9db24b25",
               "Subject": "Fix CVE-2022-27664"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2022.12.11",
+          "commits": [
+            {
+              "SHA": "d8dd39f",
+              "Subject": "Prepare for release v2022.12.11 (#120)"
+            },
+            {
+              "SHA": "0f1c6c1",
+              "Subject": "Update kubectl version"
+            },
+            {
+              "SHA": "8decf70",
+              "Subject": "Run GH actions on ubuntu-20.04 (#119)"
+            },
+            {
+              "SHA": "cd18ec8",
+              "Subject": "Test against Kubernetes 1.25.0 (#118)"
+            },
+            {
+              "SHA": "18fefdf",
+              "Subject": "Use Go 1.19 (#117)"
             }
           ]
         }
