@@ -1,0 +1,40 @@
+{
+  "product_line": "Voyager",
+  "release": "v2022.12.11",
+  "release_date": "2022-12-10T19:08:04.029768808Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2022.12.11",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "03ca8808",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "6e495f8a",
+              "Subject": "Run GH actions on ubuntu-20.04 (#34)"
+            },
+            {
+              "SHA": "e54c78b8",
+              "Subject": "Test against Kubernetes 1.25.0 (#33)"
+            },
+            {
+              "SHA": "aaa19a94",
+              "Subject": "Use Go 1.19 (#32)"
+            },
+            {
+              "SHA": "11bcee3c",
+              "Subject": "Use k8s 1.25.1 libs (#31)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
