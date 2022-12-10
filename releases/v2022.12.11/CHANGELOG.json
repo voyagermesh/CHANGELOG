@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2022.12.11",
-  "release_date": "2022-12-10T20:17:08.650289668Z",
+  "release_date": "2022-12-10T20:57:53.368803441Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2022.12.11",
   "kubernetes_version": "1.19+",
@@ -129,6 +129,24 @@
             {
               "SHA": "18fefdf",
               "Subject": "Use Go 1.19 (#117)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2022.12.11",
+          "commits": [
+            {
+              "SHA": "24c7e03",
+              "Subject": "Prepare for release v2022.12.11 (#1622)"
+            },
+            {
+              "SHA": "1052e23",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1621)"
             }
           ]
         }

@@ -51,3 +51,12 @@
 
 
 
+## [voyagermesh/voyager](https://github.com/voyagermesh/voyager)
+
+### [v2022.12.11](https://github.com/voyagermesh/voyager/releases/tag/v2022.12.11)
+
+- [24c7e03](https://github.com/voyagermesh/voyager/commit/24c7e03) Prepare for release v2022.12.11 (#1622)
+- [1052e23](https://github.com/voyagermesh/voyager/commit/1052e23) Run GH actions on ubuntu-20.04 (#1621)
+
+
+
