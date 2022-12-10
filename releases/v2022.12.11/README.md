@@ -13,3 +13,14 @@
 
 
 
+## [voyagermesh/cli](https://github.com/voyagermesh/cli)
+
+### [v0.0.11](https://github.com/voyagermesh/cli/releases/tag/v0.0.11)
+
+- [ee6eb0d](https://github.com/voyagermesh/cli/commit/ee6eb0d) Prepare for release v0.0.11 (#17)
+- [7bf2e36](https://github.com/voyagermesh/cli/commit/7bf2e36) Run GH actions on ubuntu-20.04 (#16)
+- [d597ca1](https://github.com/voyagermesh/cli/commit/d597ca1) Stop using ioutil (#15)
+- [38e08ab](https://github.com/voyagermesh/cli/commit/38e08ab) Use k8s 1.25.1 libs (#14)
+
+
+
