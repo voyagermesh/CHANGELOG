@@ -1,0 +1,156 @@
+{
+  "product_line": "Voyager",
+  "release": "v2022.12.11",
+  "release_date": "2022-12-10T20:57:53.368803441Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2022.12.11",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "03ca8808",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "6e495f8a",
+              "Subject": "Run GH actions on ubuntu-20.04 (#34)"
+            },
+            {
+              "SHA": "e54c78b8",
+              "Subject": "Test against Kubernetes 1.25.0 (#33)"
+            },
+            {
+              "SHA": "aaa19a94",
+              "Subject": "Use Go 1.19 (#32)"
+            },
+            {
+              "SHA": "11bcee3c",
+              "Subject": "Use k8s 1.25.1 libs (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.11",
+          "commits": [
+            {
+              "SHA": "ee6eb0d",
+              "Subject": "Prepare for release v0.0.11 (#17)"
+            },
+            {
+              "SHA": "7bf2e36",
+              "Subject": "Run GH actions on ubuntu-20.04 (#16)"
+            },
+            {
+              "SHA": "d597ca1",
+              "Subject": "Stop using ioutil (#15)"
+            },
+            {
+              "SHA": "38e08ab",
+              "Subject": "Use k8s 1.25.1 libs (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v17.0.0",
+          "commits": [
+            {
+              "SHA": "b9e3daaa4",
+              "Subject": "Prepare for release v17.0.0 (#59)"
+            },
+            {
+              "SHA": "cf06e700c",
+              "Subject": "Remove vulnerable deps"
+            },
+            {
+              "SHA": "3370de4f0",
+              "Subject": "Run GH actions on ubuntu-20.04 (#58)"
+            },
+            {
+              "SHA": "ccaa9278e",
+              "Subject": "Acquire license from proxyserver (#57)"
+            },
+            {
+              "SHA": "3b86fefef",
+              "Subject": "Update KIND (#56)"
+            },
+            {
+              "SHA": "a407ff284",
+              "Subject": "Use Go 1.19 (#55)"
+            },
+            {
+              "SHA": "d53c24dce",
+              "Subject": "Use k8s 1.25.1 libs (#54)"
+            },
+            {
+              "SHA": "c9db24b25",
+              "Subject": "Fix CVE-2022-27664"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2022.12.11",
+          "commits": [
+            {
+              "SHA": "d8dd39f",
+              "Subject": "Prepare for release v2022.12.11 (#120)"
+            },
+            {
+              "SHA": "0f1c6c1",
+              "Subject": "Update kubectl version"
+            },
+            {
+              "SHA": "8decf70",
+              "Subject": "Run GH actions on ubuntu-20.04 (#119)"
+            },
+            {
+              "SHA": "cd18ec8",
+              "Subject": "Test against Kubernetes 1.25.0 (#118)"
+            },
+            {
+              "SHA": "18fefdf",
+              "Subject": "Use Go 1.19 (#117)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2022.12.11",
+          "commits": [
+            {
+              "SHA": "24c7e03",
+              "Subject": "Prepare for release v2022.12.11 (#1622)"
+            },
+            {
+              "SHA": "1052e23",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1621)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
