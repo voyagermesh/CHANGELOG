@@ -24,3 +24,18 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v17.0.0](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v17.0.0)
+
+- [b9e3daaa](https://github.com/voyagermesh/haproxy-ingress/commit/b9e3daaa4) Prepare for release v17.0.0 (#59)
+- [cf06e700](https://github.com/voyagermesh/haproxy-ingress/commit/cf06e700c) Remove vulnerable deps
+- [3370de4f](https://github.com/voyagermesh/haproxy-ingress/commit/3370de4f0) Run GH actions on ubuntu-20.04 (#58)
+- [ccaa9278](https://github.com/voyagermesh/haproxy-ingress/commit/ccaa9278e) Acquire license from proxyserver (#57)
+- [3b86fefe](https://github.com/voyagermesh/haproxy-ingress/commit/3b86fefef) Update KIND (#56)
+- [a407ff28](https://github.com/voyagermesh/haproxy-ingress/commit/a407ff284) Use Go 1.19 (#55)
+- [d53c24dc](https://github.com/voyagermesh/haproxy-ingress/commit/d53c24dce) Use k8s 1.25.1 libs (#54)
+- [c9db24b2](https://github.com/voyagermesh/haproxy-ingress/commit/c9db24b25) Fix CVE-2022-27664
+
+
+

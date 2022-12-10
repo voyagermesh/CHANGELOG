@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2022.12.11",
-  "release_date": "2022-12-10T19:24:40.394392792Z",
+  "release_date": "2022-12-10T19:25:23.657486798Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2022.12.11",
   "kubernetes_version": "1.19+",
@@ -57,6 +57,48 @@
             {
               "SHA": "38e08ab",
               "Subject": "Use k8s 1.25.1 libs (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v17.0.0",
+          "commits": [
+            {
+              "SHA": "b9e3daaa4",
+              "Subject": "Prepare for release v17.0.0 (#59)"
+            },
+            {
+              "SHA": "cf06e700c",
+              "Subject": "Remove vulnerable deps"
+            },
+            {
+              "SHA": "3370de4f0",
+              "Subject": "Run GH actions on ubuntu-20.04 (#58)"
+            },
+            {
+              "SHA": "ccaa9278e",
+              "Subject": "Acquire license from proxyserver (#57)"
+            },
+            {
+              "SHA": "3b86fefef",
+              "Subject": "Update KIND (#56)"
+            },
+            {
+              "SHA": "a407ff284",
+              "Subject": "Use Go 1.19 (#55)"
+            },
+            {
+              "SHA": "d53c24dce",
+              "Subject": "Use k8s 1.25.1 libs (#54)"
+            },
+            {
+              "SHA": "c9db24b25",
+              "Subject": "Fix CVE-2022-27664"
             }
           ]
         }
