@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2023.02.22",
-  "release_date": "2023-02-23T09:00:40.856360946Z",
+  "release_date": "2023-02-23T11:38:46.254050406Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2023.02.22",
   "kubernetes_version": "1.19+",
@@ -77,6 +77,20 @@
             {
               "SHA": "7451bba",
               "Subject": "Publish helm charts as OCI artifacts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2023.02.22",
+          "commits": [
+            {
+              "SHA": "e1dfd0b",
+              "Subject": "Prepare for release v2023.02.22 (#1623)"
             }
           ]
         }
