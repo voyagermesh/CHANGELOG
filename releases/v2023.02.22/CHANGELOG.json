@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2023.02.22",
-  "release_date": "2023-02-23T00:11:21.872055476Z",
+  "release_date": "2023-02-23T09:00:40.856360946Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2023.02.22",
   "kubernetes_version": "1.19+",
@@ -59,6 +59,24 @@
             {
               "SHA": "e65b16829",
               "Subject": "Fix NPE using licenseproxy-server (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2023.02.22",
+          "commits": [
+            {
+              "SHA": "e1d3789",
+              "Subject": "Prepare for release v2023.02.22 (#121)"
+            },
+            {
+              "SHA": "7451bba",
+              "Subject": "Publish helm charts as OCI artifacts"
             }
           ]
         }

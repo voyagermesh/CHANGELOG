@@ -29,3 +29,12 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2023.02.22](https://github.com/voyagermesh/installer/releases/tag/v2023.02.22)
+
+- [e1d3789](https://github.com/voyagermesh/installer/commit/e1d3789) Prepare for release v2023.02.22 (#121)
+- [7451bba](https://github.com/voyagermesh/installer/commit/7451bba) Publish helm charts as OCI artifacts
+
+
+
