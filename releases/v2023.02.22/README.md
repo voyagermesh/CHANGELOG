@@ -17,3 +17,15 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v17.0.1](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v17.0.1)
+
+- [663cfff4](https://github.com/voyagermesh/haproxy-ingress/commit/663cfff4b) Prepare for release v17.0.1 (#61)
+- [7aa174bc](https://github.com/voyagermesh/haproxy-ingress/commit/7aa174bc7) Update dependencies
+- [ece0471a](https://github.com/voyagermesh/haproxy-ingress/commit/ece0471ae) Update submodules
+- [ea8416d3](https://github.com/voyagermesh/haproxy-ingress/commit/ea8416d32) Fix NPE using licenseproxy-server (#60)
+- [e65b1682](https://github.com/voyagermesh/haproxy-ingress/commit/e65b16829) Fix NPE using licenseproxy-server (#60)
+
+
+

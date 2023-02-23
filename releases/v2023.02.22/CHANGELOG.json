@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2023.02.22",
-  "release_date": "2023-02-23T00:10:24.193868119Z",
+  "release_date": "2023-02-23T00:11:21.872055476Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2023.02.22",
   "kubernetes_version": "1.19+",
@@ -29,6 +29,36 @@
             {
               "SHA": "4e9c89e",
               "Subject": "Prepare for release v0.0.12 (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v17.0.1",
+          "commits": [
+            {
+              "SHA": "663cfff4b",
+              "Subject": "Prepare for release v17.0.1 (#61)"
+            },
+            {
+              "SHA": "7aa174bc7",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "ece0471ae",
+              "Subject": "Update submodules"
+            },
+            {
+              "SHA": "ea8416d32",
+              "Subject": "Fix NPE using licenseproxy-server (#60)"
+            },
+            {
+              "SHA": "e65b16829",
+              "Subject": "Fix NPE using licenseproxy-server (#60)"
             }
           ]
         }
