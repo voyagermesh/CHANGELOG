@@ -1,0 +1,100 @@
+{
+  "product_line": "Voyager",
+  "release": "v2023.02.22",
+  "release_date": "2023-02-23T11:38:46.254050406Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2023.02.22",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.7.1",
+          "commits": [
+            {
+              "SHA": "8aa11417",
+              "Subject": "Update dependencies (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.12",
+          "commits": [
+            {
+              "SHA": "4e9c89e",
+              "Subject": "Prepare for release v0.0.12 (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v17.0.1",
+          "commits": [
+            {
+              "SHA": "663cfff4b",
+              "Subject": "Prepare for release v17.0.1 (#61)"
+            },
+            {
+              "SHA": "7aa174bc7",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "ece0471ae",
+              "Subject": "Update submodules"
+            },
+            {
+              "SHA": "ea8416d32",
+              "Subject": "Fix NPE using licenseproxy-server (#60)"
+            },
+            {
+              "SHA": "e65b16829",
+              "Subject": "Fix NPE using licenseproxy-server (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2023.02.22",
+          "commits": [
+            {
+              "SHA": "e1d3789",
+              "Subject": "Prepare for release v2023.02.22 (#121)"
+            },
+            {
+              "SHA": "7451bba",
+              "Subject": "Publish helm charts as OCI artifacts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2023.02.22",
+          "commits": [
+            {
+              "SHA": "e1dfd0b",
+              "Subject": "Prepare for release v2023.02.22 (#1623)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
