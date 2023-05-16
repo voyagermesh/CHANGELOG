@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2023.05.16",
-  "release_date": "2023-05-16T22:50:26.189310712Z",
+  "release_date": "2023-05-16T23:27:00.911946566Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2023.05.16",
   "kubernetes_version": "1.19+",
@@ -35,6 +35,40 @@
             {
               "SHA": "882d1506",
               "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v17.0.2",
+          "commits": [
+            {
+              "SHA": "e1ec6dc2b",
+              "Subject": "Prepare for release v17.0.2 (#66)"
+            },
+            {
+              "SHA": "50755363b",
+              "Subject": "Use HAProxy 2.6.12 (#65)"
+            },
+            {
+              "SHA": "ad1af389d",
+              "Subject": "Publish to ghcr.io (#64)"
+            },
+            {
+              "SHA": "b52228b56",
+              "Subject": "Add docker image label"
+            },
+            {
+              "SHA": "dcde7f21f",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#63)"
+            },
+            {
+              "SHA": "f46f506da",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#62)"
             }
           ]
         }
