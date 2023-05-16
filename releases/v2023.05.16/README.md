@@ -14,6 +14,16 @@
 
 
 
+## [voyagermesh/cli](https://github.com/voyagermesh/cli)
+
+### [v0.0.13](https://github.com/voyagermesh/cli/releases/tag/v0.0.13)
+
+- [8941c49](https://github.com/voyagermesh/cli/commit/8941c49) Prepare for release v0.0.13 (#21)
+- [2704ce0](https://github.com/voyagermesh/cli/commit/2704ce0) Use ghcr.io for appscode/golang-dev (#20)
+- [c059723](https://github.com/voyagermesh/cli/commit/c059723) Update wrokflows (Go 1.20, k8s 1.26) (#19)
+
+
+
 ## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
 
 ### [v17.0.2](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v17.0.2)
