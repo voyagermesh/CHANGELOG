@@ -37,3 +37,20 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2023.05.16](https://github.com/voyagermesh/installer/releases/tag/v2023.05.16)
+
+- [fabe300](https://github.com/voyagermesh/installer/commit/fabe300) Prepare for release v2023.05.16 (#131)
+- [1f818ff](https://github.com/voyagermesh/installer/commit/1f818ff) Use kubectl 1.24
+- [f1f56c3](https://github.com/voyagermesh/installer/commit/f1f56c3) Test against K8s 1.27.1 (#130)
+- [fa3a42c](https://github.com/voyagermesh/installer/commit/fa3a42c) Use uid 65534 and test against K8s 1.27.0 (#129)
+- [59d0d9a](https://github.com/voyagermesh/installer/commit/59d0d9a) Use ghcr.io/appscode/gengo (#128)
+- [f2ffd5a](https://github.com/voyagermesh/installer/commit/f2ffd5a) Stop publishing oci images to docker hub
+- [9ef2b81](https://github.com/voyagermesh/installer/commit/9ef2b81) Use ghcr.io (#127)
+- [c44f262](https://github.com/voyagermesh/installer/commit/c44f262) Use ghcr.io for appscode/golang-dev (#126)
+- [d40e2fb](https://github.com/voyagermesh/installer/commit/d40e2fb) Update workflows (Go 1.20, k8s 1.26) (#125)
+- [371fe3f](https://github.com/voyagermesh/installer/commit/371fe3f) Update wrokflows (Go 1.20, k8s 1.26) (#124)
+
+
+
