@@ -1,0 +1,180 @@
+{
+  "product_line": "Voyager",
+  "release": "v2023.05.16",
+  "release_date": "2023-05-17T02:13:01.746351547Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2023.05.16",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.7.2",
+          "commits": [
+            {
+              "SHA": "d3eab942",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "d741654b",
+              "Subject": "Test against K8s 1.27.1 (#40)"
+            },
+            {
+              "SHA": "f17a74a0",
+              "Subject": "Use uid 65534 and test against K8s 1.27.0 (#39)"
+            },
+            {
+              "SHA": "5313fa2b",
+              "Subject": "Use ghcr.io/appscode/gengo (#38)"
+            },
+            {
+              "SHA": "3cf19792",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#37)"
+            },
+            {
+              "SHA": "882d1506",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.13",
+          "commits": [
+            {
+              "SHA": "8941c49",
+              "Subject": "Prepare for release v0.0.13 (#21)"
+            },
+            {
+              "SHA": "2704ce0",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#20)"
+            },
+            {
+              "SHA": "c059723",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v17.0.2",
+          "commits": [
+            {
+              "SHA": "e1ec6dc2b",
+              "Subject": "Prepare for release v17.0.2 (#66)"
+            },
+            {
+              "SHA": "50755363b",
+              "Subject": "Use HAProxy 2.6.12 (#65)"
+            },
+            {
+              "SHA": "ad1af389d",
+              "Subject": "Publish to ghcr.io (#64)"
+            },
+            {
+              "SHA": "b52228b56",
+              "Subject": "Add docker image label"
+            },
+            {
+              "SHA": "dcde7f21f",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#63)"
+            },
+            {
+              "SHA": "f46f506da",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2023.05.16",
+          "commits": [
+            {
+              "SHA": "fabe300",
+              "Subject": "Prepare for release v2023.05.16 (#131)"
+            },
+            {
+              "SHA": "1f818ff",
+              "Subject": "Use kubectl 1.24"
+            },
+            {
+              "SHA": "f1f56c3",
+              "Subject": "Test against K8s 1.27.1 (#130)"
+            },
+            {
+              "SHA": "fa3a42c",
+              "Subject": "Use uid 65534 and test against K8s 1.27.0 (#129)"
+            },
+            {
+              "SHA": "59d0d9a",
+              "Subject": "Use ghcr.io/appscode/gengo (#128)"
+            },
+            {
+              "SHA": "f2ffd5a",
+              "Subject": "Stop publishing oci images to docker hub"
+            },
+            {
+              "SHA": "9ef2b81",
+              "Subject": "Use ghcr.io (#127)"
+            },
+            {
+              "SHA": "c44f262",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#126)"
+            },
+            {
+              "SHA": "d40e2fb",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#125)"
+            },
+            {
+              "SHA": "371fe3f",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#124)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2023.05.16",
+          "commits": [
+            {
+              "SHA": "c264a20",
+              "Subject": "Prepare for release v2023.05.16 (#1626)"
+            },
+            {
+              "SHA": "bdd51ae",
+              "Subject": "Fix errors in code/YAML blocks (#1625)"
+            },
+            {
+              "SHA": "3d324a9",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "6b66127",
+              "Subject": "Spelling (#1618)"
+            },
+            {
+              "SHA": "97ce227",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#1624)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
