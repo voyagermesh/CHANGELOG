@@ -1,4 +1,4 @@
-# Voyager v2023.05.16 (2023-05-16)
+# Voyager v2023.05.16 (2023-05-17)
 
 
 ## [voyagermesh/apimachinery](https://github.com/voyagermesh/apimachinery)
@@ -51,6 +51,18 @@
 - [c44f262](https://github.com/voyagermesh/installer/commit/c44f262) Use ghcr.io for appscode/golang-dev (#126)
 - [d40e2fb](https://github.com/voyagermesh/installer/commit/d40e2fb) Update workflows (Go 1.20, k8s 1.26) (#125)
 - [371fe3f](https://github.com/voyagermesh/installer/commit/371fe3f) Update wrokflows (Go 1.20, k8s 1.26) (#124)
+
+
+
+## [voyagermesh/voyager](https://github.com/voyagermesh/voyager)
+
+### [v2023.05.16](https://github.com/voyagermesh/voyager/releases/tag/v2023.05.16)
+
+- [c264a20](https://github.com/voyagermesh/voyager/commit/c264a20) Prepare for release v2023.05.16 (#1626)
+- [bdd51ae](https://github.com/voyagermesh/voyager/commit/bdd51ae) Fix errors in code/YAML blocks (#1625)
+- [3d324a9](https://github.com/voyagermesh/voyager/commit/3d324a9) Update README.md
+- [6b66127](https://github.com/voyagermesh/voyager/commit/6b66127) Spelling (#1618)
+- [97ce227](https://github.com/voyagermesh/voyager/commit/97ce227) Update wrokflows (Go 1.20, k8s 1.26) (#1624)
 
 
 
