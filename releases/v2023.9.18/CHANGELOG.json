@@ -1,0 +1,28 @@
+{
+  "product_line": "Voyager",
+  "release": "v2023.9.18",
+  "release_date": "2023-09-17T18:48:00.13636171Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2023.9.18",
+  "kubernetes_version": "1.21+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.7.3",
+          "commits": [
+            {
+              "SHA": "7a511cc9",
+              "Subject": "Support custom ssl chipher annotation"
+            },
+            {
+              "SHA": "757c19c1",
+              "Subject": "Update license verifier (#41)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
