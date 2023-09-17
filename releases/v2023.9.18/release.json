@@ -1,0 +1,75 @@
+{
+  "product_line": "Voyager",
+  "release": "v2023.9.18",
+  "docs_url_template": "https://voyagermesh.com/docs/%s",
+  "kubernetes_version": "1.21+",
+  "projects": [
+    {
+      "github.com/voyagermesh/apimachinery": {
+        "tag": "v0.7.3"
+      }
+    },
+    {
+      "github.com/voyagermesh/cli": {
+        "key": "voyager-cli",
+        "tag": "v0.0.14"
+      },
+      "github.com/voyagermesh/haproxy-ingress": {
+        "tag": "v17.0.3"
+      }
+    },
+    {
+      "github.com/voyagermesh/installer": {
+        "key": "voyager-installer",
+        "tag": "v2023.9.18",
+        "chartNames": [
+          "voyager",
+          "voyager-crds"
+        ],
+        "commands": [
+          "./hack/scripts/import-crds.sh",
+          "make update-charts CHART_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL} APP_VERSION=${VOYAGERMESH_HAPROXY_INGRESS_TAG}"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/appscode/charts": {
+        "charts": [
+          "github.com/voyagermesh/installer"
+        ],
+        "changelog": "Skip"
+      }
+    },
+    {
+      "github.com/appscode/static-assets": {
+        "commands": [
+          "release-automaton update-assets --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE}"
+        ],
+        "changelog": "StandaloneWebsite"
+      }
+    },
+    {
+      "github.com/voyagermesh/voyager": {
+        "key": "voyager",
+        "tag": "v2023.9.18",
+        "commands": [
+          "mv ${SCRIPT_ROOT}/releases/${RELEASE}/docs_changelog.md ${WORKSPACE}/docs/CHANGELOG-${RELEASE}.md"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/voyagermesh/website": {
+        "tag": "v2023.9.18",
+        "commands": [
+          "make set-assets-repo ASSETS_REPO_URL=https://github.com/appscode/static-assets",
+          "make docs",
+          "make set-version VERSION=${TAG}"
+        ],
+        "release_branch": "master",
+        "changelog": "Skip"
+      }
+    }
+  ]
+}
