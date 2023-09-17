@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2023.9.18",
-  "release_date": "2023-09-17T19:46:03.047555151Z",
+  "release_date": "2023-09-17T20:03:00.92546341Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2023.9.18",
   "kubernetes_version": "1.21+",
@@ -101,6 +101,20 @@
             {
               "SHA": "677b93d",
               "Subject": "Use helm repo version"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2023.9.18",
+          "commits": [
+            {
+              "SHA": "2bf2665",
+              "Subject": "Prepare for release v2023.9.18 (#1627)"
             }
           ]
         }
