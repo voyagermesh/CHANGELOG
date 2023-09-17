@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2023.9.18",
-  "release_date": "2023-09-17T19:11:16.222290552Z",
+  "release_date": "2023-09-17T19:46:03.047555151Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2023.9.18",
   "kubernetes_version": "1.21+",
@@ -63,6 +63,44 @@
             {
               "SHA": "5f4fb9032",
               "Subject": "Delete docker image is commit is not tagged"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2023.9.18",
+          "commits": [
+            {
+              "SHA": "7189d8a",
+              "Subject": "Prepare for release v2023.9.18 (#135)"
+            },
+            {
+              "SHA": "2216fd3",
+              "Subject": "Handle charts without doc.yaml"
+            },
+            {
+              "SHA": "576f837",
+              "Subject": "Update gateway 0.5.0 crds"
+            },
+            {
+              "SHA": "8044712",
+              "Subject": "Use gateway v0.0.2"
+            },
+            {
+              "SHA": "2bc3aa6",
+              "Subject": "Upgrade to release/v0.5 (#134)"
+            },
+            {
+              "SHA": "7fafdeb",
+              "Subject": "Remove non crd objects from crds folder"
+            },
+            {
+              "SHA": "677b93d",
+              "Subject": "Use helm repo version"
             }
           ]
         }

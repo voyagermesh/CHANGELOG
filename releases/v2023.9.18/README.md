@@ -30,3 +30,17 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2023.9.18](https://github.com/voyagermesh/installer/releases/tag/v2023.9.18)
+
+- [7189d8a](https://github.com/voyagermesh/installer/commit/7189d8a) Prepare for release v2023.9.18 (#135)
+- [2216fd3](https://github.com/voyagermesh/installer/commit/2216fd3) Handle charts without doc.yaml
+- [576f837](https://github.com/voyagermesh/installer/commit/576f837) Update gateway 0.5.0 crds
+- [8044712](https://github.com/voyagermesh/installer/commit/8044712) Use gateway v0.0.2
+- [2bc3aa6](https://github.com/voyagermesh/installer/commit/2bc3aa6) Upgrade to release/v0.5 (#134)
+- [7fafdeb](https://github.com/voyagermesh/installer/commit/7fafdeb) Remove non crd objects from crds folder
+- [677b93d](https://github.com/voyagermesh/installer/commit/677b93d) Use helm repo version
+
+
+
