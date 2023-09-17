@@ -1,0 +1,124 @@
+{
+  "product_line": "Voyager",
+  "release": "v2023.9.18",
+  "release_date": "2023-09-17T20:03:00.92546341Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2023.9.18",
+  "kubernetes_version": "1.21+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.7.3",
+          "commits": [
+            {
+              "SHA": "7a511cc9",
+              "Subject": "Support custom ssl chipher annotation"
+            },
+            {
+              "SHA": "757c19c1",
+              "Subject": "Update license verifier (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.14",
+          "commits": [
+            {
+              "SHA": "d137c94",
+              "Subject": "Prepare for release v0.0.14 (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v17.0.3",
+          "commits": [
+            {
+              "SHA": "8ac3587fb",
+              "Subject": "Prepare for release v17.0.3 (#70)"
+            },
+            {
+              "SHA": "0c7e59b35",
+              "Subject": "update haproxy template"
+            },
+            {
+              "SHA": "f97e23e0d",
+              "Subject": "Support custom ssl chipher (#69)"
+            },
+            {
+              "SHA": "e461f0bc2",
+              "Subject": "Update license verifier (#67)"
+            },
+            {
+              "SHA": "5f4fb9032",
+              "Subject": "Delete docker image is commit is not tagged"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2023.9.18",
+          "commits": [
+            {
+              "SHA": "7189d8a",
+              "Subject": "Prepare for release v2023.9.18 (#135)"
+            },
+            {
+              "SHA": "2216fd3",
+              "Subject": "Handle charts without doc.yaml"
+            },
+            {
+              "SHA": "576f837",
+              "Subject": "Update gateway 0.5.0 crds"
+            },
+            {
+              "SHA": "8044712",
+              "Subject": "Use gateway v0.0.2"
+            },
+            {
+              "SHA": "2bc3aa6",
+              "Subject": "Upgrade to release/v0.5 (#134)"
+            },
+            {
+              "SHA": "7fafdeb",
+              "Subject": "Remove non crd objects from crds folder"
+            },
+            {
+              "SHA": "677b93d",
+              "Subject": "Use helm repo version"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2023.9.18",
+          "commits": [
+            {
+              "SHA": "2bf2665",
+              "Subject": "Prepare for release v2023.9.18 (#1627)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
