@@ -18,3 +18,15 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v17.0.3](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v17.0.3)
+
+- [8ac3587f](https://github.com/voyagermesh/haproxy-ingress/commit/8ac3587fb) Prepare for release v17.0.3 (#70)
+- [0c7e59b3](https://github.com/voyagermesh/haproxy-ingress/commit/0c7e59b35) update haproxy template
+- [f97e23e0](https://github.com/voyagermesh/haproxy-ingress/commit/f97e23e0d) Support custom ssl chipher (#69)
+- [e461f0bc](https://github.com/voyagermesh/haproxy-ingress/commit/e461f0bc2) Update license verifier (#67)
+- [5f4fb903](https://github.com/voyagermesh/haproxy-ingress/commit/5f4fb9032) Delete docker image is commit is not tagged
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2023.9.18",
-  "release_date": "2023-09-17T18:56:48.063822301Z",
+  "release_date": "2023-09-17T19:11:16.222290552Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2023.9.18",
   "kubernetes_version": "1.21+",
@@ -33,6 +33,36 @@
             {
               "SHA": "d137c94",
               "Subject": "Prepare for release v0.0.14 (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v17.0.3",
+          "commits": [
+            {
+              "SHA": "8ac3587fb",
+              "Subject": "Prepare for release v17.0.3 (#70)"
+            },
+            {
+              "SHA": "0c7e59b35",
+              "Subject": "update haproxy template"
+            },
+            {
+              "SHA": "f97e23e0d",
+              "Subject": "Support custom ssl chipher (#69)"
+            },
+            {
+              "SHA": "e461f0bc2",
+              "Subject": "Update license verifier (#67)"
+            },
+            {
+              "SHA": "5f4fb9032",
+              "Subject": "Delete docker image is commit is not tagged"
             }
           ]
         }
