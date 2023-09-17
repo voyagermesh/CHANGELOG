@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2023.9.18",
-  "release_date": "2023-09-17T18:48:00.13636171Z",
+  "release_date": "2023-09-17T18:56:48.063822301Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2023.9.18",
   "kubernetes_version": "1.21+",
@@ -19,6 +19,20 @@
             {
               "SHA": "757c19c1",
               "Subject": "Update license verifier (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.14",
+          "commits": [
+            {
+              "SHA": "d137c94",
+              "Subject": "Prepare for release v0.0.14 (#22)"
             }
           ]
         }
