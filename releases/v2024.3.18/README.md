@@ -47,3 +47,12 @@
 
 
 
+## [voyagermesh/voyager](https://github.com/voyagermesh/voyager)
+
+### [v2024.3.18](https://github.com/voyagermesh/voyager/releases/tag/v2024.3.18)
+
+- [e4775bf](https://github.com/voyagermesh/voyager/commit/e4775bf) Prepare for release v2024.3.18 (#1631)
+- [6c342cf](https://github.com/voyagermesh/voyager/commit/6c342cf) Use Go 1.22 (#1629)
+
+
+
