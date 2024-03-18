@@ -22,3 +22,19 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v17.1.0](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v17.1.0)
+
+- [04b22e90](https://github.com/voyagermesh/haproxy-ingress/commit/04b22e905) Prepare for release v17.1.0 (#83)
+- [d12ccf31](https://github.com/voyagermesh/haproxy-ingress/commit/d12ccf311) Use haproxy 2.6.16
+- [90e5842a](https://github.com/voyagermesh/haproxy-ingress/commit/90e5842af) Update deps
+- [8ce183c7](https://github.com/voyagermesh/haproxy-ingress/commit/8ce183c7d) Use Go 1.22 (#82)
+- [4ed0abc5](https://github.com/voyagermesh/haproxy-ingress/commit/4ed0abc5f) Update deps (#79)
+- [c43d785c](https://github.com/voyagermesh/haproxy-ingress/commit/c43d785cd) Use k8s 1.29 client libs (#76)
+- [a832564a](https://github.com/voyagermesh/haproxy-ingress/commit/a832564ad) Send hourly audit events (#75)
+- [d2b57c9d](https://github.com/voyagermesh/haproxy-ingress/commit/d2b57c9da) Update deps
+- [664aa057](https://github.com/voyagermesh/haproxy-ingress/commit/664aa0578) Disable cleanup of image
+
+
+

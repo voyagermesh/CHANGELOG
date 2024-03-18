@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2024.3.18",
-  "release_date": "2024-03-18T09:13:14.88547311Z",
+  "release_date": "2024-03-18T09:17:36.086413046Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2024.3.18",
   "kubernetes_version": "1.21+",
@@ -49,6 +49,52 @@
             {
               "SHA": "586acaf",
               "Subject": "Use Go 1.22 (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v17.1.0",
+          "commits": [
+            {
+              "SHA": "04b22e905",
+              "Subject": "Prepare for release v17.1.0 (#83)"
+            },
+            {
+              "SHA": "d12ccf311",
+              "Subject": "Use haproxy 2.6.16"
+            },
+            {
+              "SHA": "90e5842af",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "8ce183c7d",
+              "Subject": "Use Go 1.22 (#82)"
+            },
+            {
+              "SHA": "4ed0abc5f",
+              "Subject": "Update deps (#79)"
+            },
+            {
+              "SHA": "c43d785cd",
+              "Subject": "Use k8s 1.29 client libs (#76)"
+            },
+            {
+              "SHA": "a832564ad",
+              "Subject": "Send hourly audit events (#75)"
+            },
+            {
+              "SHA": "d2b57c9da",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "664aa0578",
+              "Subject": "Disable cleanup of image"
             }
           ]
         }
