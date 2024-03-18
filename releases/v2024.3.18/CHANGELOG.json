@@ -1,0 +1,140 @@
+{
+  "product_line": "Voyager",
+  "release": "v2024.3.18",
+  "release_date": "2024-03-18T13:24:32.468976638Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2024.3.18",
+  "kubernetes_version": "1.21+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "5baa586c",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "dbb90e92",
+              "Subject": "Use Go 1.22 (#45)"
+            },
+            {
+              "SHA": "d50e1045",
+              "Subject": "Update deps (#44)"
+            },
+            {
+              "SHA": "b98cecb9",
+              "Subject": "Use k8s 1.29 client libs (#43)"
+            },
+            {
+              "SHA": "06618b9e",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.15",
+          "commits": [
+            {
+              "SHA": "99baac8",
+              "Subject": "Prepare for release v0.0.15 (#24)"
+            },
+            {
+              "SHA": "586acaf",
+              "Subject": "Use Go 1.22 (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v17.1.0",
+          "commits": [
+            {
+              "SHA": "04b22e905",
+              "Subject": "Prepare for release v17.1.0 (#83)"
+            },
+            {
+              "SHA": "d12ccf311",
+              "Subject": "Use haproxy 2.6.16"
+            },
+            {
+              "SHA": "90e5842af",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "8ce183c7d",
+              "Subject": "Use Go 1.22 (#82)"
+            },
+            {
+              "SHA": "4ed0abc5f",
+              "Subject": "Update deps (#79)"
+            },
+            {
+              "SHA": "c43d785cd",
+              "Subject": "Use k8s 1.29 client libs (#76)"
+            },
+            {
+              "SHA": "a832564ad",
+              "Subject": "Send hourly audit events (#75)"
+            },
+            {
+              "SHA": "d2b57c9da",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "664aa0578",
+              "Subject": "Disable cleanup of image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2024.3.18",
+          "commits": [
+            {
+              "SHA": "32154e1",
+              "Subject": "Prepare for release v2024.3.18 (#139)"
+            },
+            {
+              "SHA": "18d19e2",
+              "Subject": "Use Go 1.22 (#138)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2024.3.18",
+          "commits": [
+            {
+              "SHA": "e4775bf",
+              "Subject": "Prepare for release v2024.3.18 (#1631)"
+            },
+            {
+              "SHA": "6c342cf",
+              "Subject": "Use Go 1.22 (#1629)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

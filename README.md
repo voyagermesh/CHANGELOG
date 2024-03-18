@@ -2,6 +2,7 @@
 
 | Voyager Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
+| [v2024.3.18](https:/github.com/voyagermesh/CHANGELOG/releases/tag/v2024.3.18) | 2024-03-18 | [User Guide](https://voyagermesh.com/docs/v2024.3.18) | [CHANGELOG](/releases/v2024.3.18/README.md) | 1.21+ |
 | [v2023.9.18](https:/github.com/voyagermesh/CHANGELOG/releases/tag/v2023.9.18) | 2023-09-17 | [User Guide](https://voyagermesh.com/docs/v2023.9.18) | [CHANGELOG](/releases/v2023.9.18/README.md) | 1.21+ |
 | [v2023.05.16](https:/github.com/voyagermesh/CHANGELOG/releases/tag/v2023.05.16) | 2023-05-17 | [User Guide](https://voyagermesh.com/docs/v2023.05.16) | [CHANGELOG](/releases/v2023.05.16/README.md) | 1.19+ |
 | [v2023.02.22](https:/github.com/voyagermesh/CHANGELOG/releases/tag/v2023.02.22) | 2023-02-23 | [User Guide](https://voyagermesh.com/docs/v2023.02.22) | [CHANGELOG](/releases/v2023.02.22/README.md) | 1.19+ |
@@ -19,10 +20,10 @@
 | [v2021.10.16](https:/github.com/voyagermesh/CHANGELOG/releases/tag/v2021.10.16) | 2021-10-16 | [User Guide](https://voyagermesh.com/docs/v2021.10.16) | [CHANGELOG](/releases/v2021.10.16/README.md) | 1.19+ |
 | [v2021.09.15](https:/github.com/voyagermesh/CHANGELOG/releases/tag/v2021.09.15) | 2021-09-16 | [User Guide](https://voyagermesh.com/docs/v2021.09.15) | [CHANGELOG](/releases/v2021.09.15/README.md) | 1.19+ |
 | [v2021.04.24-rc.0](https:/github.com/voyagermesh/CHANGELOG/releases/tag/v2021.04.24-rc.0) | 2021-04-25 | [User Guide](https://voyagermesh.com/docs/v2021.04.24-rc.0) | [CHANGELOG](/releases/v2021.04.24-rc.0/README.md) | 1.14+ |
-| [v12.0.0](https://github.com/voyagermesh/voyager/releases/tag/v12.0.0) | 2020-05-18 | [User Guide](https://voyagermesh.com/docs/v12.0.0) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/v12.0.0) |  |
 | [v12.0.0-rc.2](https://github.com/voyagermesh/voyager/releases/tag/v12.0.0-rc.2) | 2020-04-25 | [User Guide](https://voyagermesh.com/docs/v12.0.0-rc.2) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/v12.0.0-rc.2) |  |
 | [v12.0.0-rc.1](https://github.com/voyagermesh/voyager/releases/tag/v12.0.0-rc.1) | 2020-01-03 | [User Guide](https://voyagermesh.com/docs/v12.0.0-rc.1) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/v12.0.0-rc.1) |  |
 | [v12.0.0-rc.0](https://github.com/voyagermesh/voyager/releases/tag/v12.0.0-rc.0) | 2020-01-03 | [User Guide](https://voyagermesh.com/docs/v12.0.0-rc.0) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/v12.0.0-rc.0) |  |
+| [v12.0.0](https://github.com/voyagermesh/voyager/releases/tag/v12.0.0) | 2020-05-18 | [User Guide](https://voyagermesh.com/docs/v12.0.0) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/v12.0.0) |  |
 | [v11.0.1](https://github.com/voyagermesh/voyager/releases/tag/v11.0.1) | 2019-09-20 | [User Guide](https://voyagermesh.com/docs/v11.0.1) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/v11.0.1) |  |
 | [v11.0.0](https://github.com/voyagermesh/voyager/releases/tag/v11.0.0) | 2019-09-10 | [User Guide](https://voyagermesh.com/docs/v11.0.0) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/v11.0.0) |  |
 | [10.0.0](https://github.com/voyagermesh/voyager/releases/tag/10.0.0) | 2019-04-29 | [User Guide](https://voyagermesh.com/docs/10.0.0) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/10.0.0) |  |
@@ -34,11 +35,11 @@
 | [7.2.0](https://github.com/voyagermesh/voyager/releases/tag/7.2.0) | 2018-06-25 | [User Guide](https://voyagermesh.com/docs/7.2.0) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/7.2.0) |  |
 | [7.1.1](https://github.com/voyagermesh/voyager/releases/tag/7.1.1) | 2018-06-13 | [User Guide](https://voyagermesh.com/docs/7.1.1) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/7.1.1) |  |
 | [7.1.0](https://github.com/voyagermesh/voyager/releases/tag/7.1.0) | 2018-06-13 | [User Guide](https://voyagermesh.com/docs/7.1.0) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/7.1.0) |  |
-| [7.0.0](https://github.com/voyagermesh/voyager/releases/tag/7.0.0) | 2018-05-28 | [User Guide](https://voyagermesh.com/docs/7.0.0) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/7.0.0) |  |
 | [7.0.0-rc.3](https://github.com/voyagermesh/voyager/releases/tag/7.0.0-rc.3) | 2018-05-23 | [User Guide](https://voyagermesh.com/docs/7.0.0-rc.3) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/7.0.0-rc.3) |  |
 | [7.0.0-rc.2](https://github.com/voyagermesh/voyager/releases/tag/7.0.0-rc.2) | 2018-05-23 | [User Guide](https://voyagermesh.com/docs/7.0.0-rc.2) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/7.0.0-rc.2) |  |
 | [7.0.0-rc.1](https://github.com/voyagermesh/voyager/releases/tag/7.0.0-rc.1) | 2018-05-14 | [User Guide](https://voyagermesh.com/docs/7.0.0-rc.1) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/7.0.0-rc.1) |  |
 | [7.0.0-rc.0](https://github.com/voyagermesh/voyager/releases/tag/7.0.0-rc.0) | 2018-05-10 | [User Guide](https://voyagermesh.com/docs/7.0.0-rc.0) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/7.0.0-rc.0) |  |
+| [7.0.0](https://github.com/voyagermesh/voyager/releases/tag/7.0.0) | 2018-05-28 | [User Guide](https://voyagermesh.com/docs/7.0.0) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/7.0.0) |  |
 | [6.0.0-rc.2](https://github.com/voyagermesh/voyager/releases/tag/6.0.0-rc.2) | 2018-03-05 | [User Guide](https://voyagermesh.com/docs/6.0.0-rc.2) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/6.0.0-rc.2) |  |
 | [6.0.0-rc.1](https://github.com/voyagermesh/voyager/releases/tag/6.0.0-rc.1) | 2018-02-28 | [User Guide](https://voyagermesh.com/docs/6.0.0-rc.1) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/6.0.0-rc.1) |  |
 | [6.0.0-rc.0](https://github.com/voyagermesh/voyager/releases/tag/6.0.0-rc.0) | 2018-02-14 | [User Guide](https://voyagermesh.com/docs/6.0.0-rc.0) | [CHANGELOG](https://github.com/voyagermesh/voyager/releases/tag/6.0.0-rc.0) |  |
