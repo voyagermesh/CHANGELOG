@@ -13,3 +13,12 @@
 
 
 
+## [voyagermesh/cli](https://github.com/voyagermesh/cli)
+
+### [v0.0.15](https://github.com/voyagermesh/cli/releases/tag/v0.0.15)
+
+- [99baac8](https://github.com/voyagermesh/cli/commit/99baac8) Prepare for release v0.0.15 (#24)
+- [586acaf](https://github.com/voyagermesh/cli/commit/586acaf) Use Go 1.22 (#23)
+
+
+
