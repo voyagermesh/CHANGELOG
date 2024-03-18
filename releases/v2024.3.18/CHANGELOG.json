@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2024.3.18",
-  "release_date": "2024-03-18T09:17:36.086413046Z",
+  "release_date": "2024-03-18T12:53:58.789181867Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2024.3.18",
   "kubernetes_version": "1.21+",
@@ -95,6 +95,24 @@
             {
               "SHA": "664aa0578",
               "Subject": "Disable cleanup of image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2024.3.18",
+          "commits": [
+            {
+              "SHA": "32154e1",
+              "Subject": "Prepare for release v2024.3.18 (#139)"
+            },
+            {
+              "SHA": "18d19e2",
+              "Subject": "Use Go 1.22 (#138)"
             }
           ]
         }

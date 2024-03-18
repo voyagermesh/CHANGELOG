@@ -38,3 +38,12 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2024.3.18](https://github.com/voyagermesh/installer/releases/tag/v2024.3.18)
+
+- [32154e1](https://github.com/voyagermesh/installer/commit/32154e1) Prepare for release v2024.3.18 (#139)
+- [18d19e2](https://github.com/voyagermesh/installer/commit/18d19e2) Use Go 1.22 (#138)
+
+
+
