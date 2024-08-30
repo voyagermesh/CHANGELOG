@@ -31,3 +31,12 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2024.8.30](https://github.com/voyagermesh/installer/releases/tag/v2024.8.30)
+
+- [0b87060](https://github.com/voyagermesh/installer/commit/0b87060) Prepare for release v2024.8.30 (#142)
+- [05d4096](https://github.com/voyagermesh/installer/commit/05d4096) Use Go 1.23 (#140)
+
+
+
