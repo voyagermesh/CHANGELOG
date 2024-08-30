@@ -1,0 +1,120 @@
+{
+  "product_line": "Voyager",
+  "release": "v2024.8.30",
+  "release_date": "2024-08-30T22:09:19.738937426Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2024.8.30",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "71a6c1ad",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "89bcb169",
+              "Subject": "Use Go 1.23 (#47)"
+            },
+            {
+              "SHA": "44f5114c",
+              "Subject": "Test against k8s 1.31 (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.16",
+          "commits": [
+            {
+              "SHA": "f49035e",
+              "Subject": "Prepare for release v0.0.16 (#26)"
+            },
+            {
+              "SHA": "9e7e638",
+              "Subject": "Use Go 1.23 (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v17.2.0",
+          "commits": [
+            {
+              "SHA": "2aa4c0d46",
+              "Subject": "Prepare for release v17.2.0 (#90)"
+            },
+            {
+              "SHA": "5066badd0",
+              "Subject": "Use 2.9.9-alpine"
+            },
+            {
+              "SHA": "1443e60d4",
+              "Subject": "Update deps (#89)"
+            },
+            {
+              "SHA": "7baa24f15",
+              "Subject": "Use Go 1.23 (#87)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2024.8.30",
+          "commits": [
+            {
+              "SHA": "0b87060",
+              "Subject": "Prepare for release v2024.8.30 (#142)"
+            },
+            {
+              "SHA": "05d4096",
+              "Subject": "Use Go 1.23 (#140)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2024.8.30",
+          "commits": [
+            {
+              "SHA": "9dc3b89",
+              "Subject": "Prepare for release v2024.8.30 (#1633)"
+            },
+            {
+              "SHA": "7162b04",
+              "Subject": "Use Go 1.23 (#1632)"
+            },
+            {
+              "SHA": "54fef30",
+              "Subject": "Fix preview"
+            },
+            {
+              "SHA": "52c5ac2",
+              "Subject": "Update docs for voyagermesh/cli@99baac84 (#1630)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
