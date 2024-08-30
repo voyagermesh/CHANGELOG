@@ -20,3 +20,14 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v17.2.0](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v17.2.0)
+
+- [2aa4c0d4](https://github.com/voyagermesh/haproxy-ingress/commit/2aa4c0d46) Prepare for release v17.2.0 (#90)
+- [5066badd](https://github.com/voyagermesh/haproxy-ingress/commit/5066badd0) Use 2.9.9-alpine
+- [1443e60d](https://github.com/voyagermesh/haproxy-ingress/commit/1443e60d4) Update deps (#89)
+- [7baa24f1](https://github.com/voyagermesh/haproxy-ingress/commit/7baa24f15) Use Go 1.23 (#87)
+
+
+

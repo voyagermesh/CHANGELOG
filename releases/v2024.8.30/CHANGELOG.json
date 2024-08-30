@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2024.8.30",
-  "release_date": "2024-08-30T20:21:51.012276076Z",
+  "release_date": "2024-08-30T20:29:23.178690806Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2024.8.30",
   "kubernetes_version": "1.26+",
@@ -41,6 +41,32 @@
             {
               "SHA": "9e7e638",
               "Subject": "Use Go 1.23 (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v17.2.0",
+          "commits": [
+            {
+              "SHA": "2aa4c0d46",
+              "Subject": "Prepare for release v17.2.0 (#90)"
+            },
+            {
+              "SHA": "5066badd0",
+              "Subject": "Use 2.9.9-alpine"
+            },
+            {
+              "SHA": "1443e60d4",
+              "Subject": "Update deps (#89)"
+            },
+            {
+              "SHA": "7baa24f15",
+              "Subject": "Use Go 1.23 (#87)"
             }
           ]
         }
