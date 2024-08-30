@@ -1,0 +1,32 @@
+{
+  "product_line": "Voyager",
+  "release": "v2024.8.30",
+  "release_date": "2024-08-30T20:08:52.580329218Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2024.8.30",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "71a6c1ad",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "89bcb169",
+              "Subject": "Use Go 1.23 (#47)"
+            },
+            {
+              "SHA": "44f5114c",
+              "Subject": "Test against k8s 1.31 (#46)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
