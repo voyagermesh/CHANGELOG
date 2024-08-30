@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2024.8.30",
-  "release_date": "2024-08-30T20:53:30.902336541Z",
+  "release_date": "2024-08-30T22:09:19.738937426Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2024.8.30",
   "kubernetes_version": "1.26+",
@@ -85,6 +85,32 @@
             {
               "SHA": "05d4096",
               "Subject": "Use Go 1.23 (#140)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2024.8.30",
+          "commits": [
+            {
+              "SHA": "9dc3b89",
+              "Subject": "Prepare for release v2024.8.30 (#1633)"
+            },
+            {
+              "SHA": "7162b04",
+              "Subject": "Use Go 1.23 (#1632)"
+            },
+            {
+              "SHA": "54fef30",
+              "Subject": "Fix preview"
+            },
+            {
+              "SHA": "52c5ac2",
+              "Subject": "Update docs for voyagermesh/cli@99baac84 (#1630)"
             }
           ]
         }

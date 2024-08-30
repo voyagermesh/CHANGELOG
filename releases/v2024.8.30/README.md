@@ -40,3 +40,14 @@
 
 
 
+## [voyagermesh/voyager](https://github.com/voyagermesh/voyager)
+
+### [v2024.8.30](https://github.com/voyagermesh/voyager/releases/tag/v2024.8.30)
+
+- [9dc3b89](https://github.com/voyagermesh/voyager/commit/9dc3b89) Prepare for release v2024.8.30 (#1633)
+- [7162b04](https://github.com/voyagermesh/voyager/commit/7162b04) Use Go 1.23 (#1632)
+- [54fef30](https://github.com/voyagermesh/voyager/commit/54fef30) Fix preview
+- [52c5ac2](https://github.com/voyagermesh/voyager/commit/52c5ac2) Update docs for voyagermesh/cli@99baac84 (#1630)
+
+
+
