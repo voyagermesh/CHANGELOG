@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2025.5.30",
-  "release_date": "2025-05-29T23:10:56.872661748Z",
+  "release_date": "2025-05-29T23:51:54.528012539Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -139,6 +139,24 @@
             {
               "SHA": "e9e527700",
               "Subject": "Use KIND v0.24.0 (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2025.5.30",
+          "commits": [
+            {
+              "SHA": "c5f041f9",
+              "Subject": "Prepare for release v2025.5.30 (#176)"
+            },
+            {
+              "SHA": "94d2eafd",
+              "Subject": "Use k8s 1.32 client libs"
             }
           ]
         }

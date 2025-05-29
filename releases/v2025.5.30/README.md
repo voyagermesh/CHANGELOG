@@ -49,3 +49,12 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2025.5.30](https://github.com/voyagermesh/installer/releases/tag/v2025.5.30)
+
+- [c5f041f9](https://github.com/voyagermesh/installer/commit/c5f041f9) Prepare for release v2025.5.30 (#176)
+- [94d2eafd](https://github.com/voyagermesh/installer/commit/94d2eafd) Use k8s 1.32 client libs
+
+
+
