@@ -33,3 +33,19 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v17.3.0](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v17.3.0)
+
+- [517279ac](https://github.com/voyagermesh/haproxy-ingress/commit/517279ac2) Prepare for release v17.3.0 (#101)
+- [5036b3be](https://github.com/voyagermesh/haproxy-ingress/commit/5036b3bee) Use k8s 1.32 client libs (#100)
+- [9030de41](https://github.com/voyagermesh/haproxy-ingress/commit/9030de410) Test against k8s 1.32 (#99)
+- [82a1cae0](https://github.com/voyagermesh/haproxy-ingress/commit/82a1cae0a) Use Go 1.24 (#97)
+- [0dd48afd](https://github.com/voyagermesh/haproxy-ingress/commit/0dd48afd9) Use Go 1.24 (#96)
+- [af58f92b](https://github.com/voyagermesh/haproxy-ingress/commit/af58f92b0) Disable image caching in setup-qemu action (#95)
+- [e3ee7970](https://github.com/voyagermesh/haproxy-ingress/commit/e3ee7970a) Update github action modules (#94)
+- [31bc4351](https://github.com/voyagermesh/haproxy-ingress/commit/31bc43511) Use kind v0.25.0 (#93)
+- [e9e52770](https://github.com/voyagermesh/haproxy-ingress/commit/e9e527700) Use KIND v0.24.0 (#91)
+
+
+
