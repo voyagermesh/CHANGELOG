@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2025.5.30",
-  "release_date": "2025-05-29T22:29:45.19789443Z",
+  "release_date": "2025-05-29T22:47:53.966857369Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -67,6 +67,32 @@
             {
               "SHA": "246ffc3cf",
               "Subject": "Use KIND v0.24.0 (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.17",
+          "commits": [
+            {
+              "SHA": "1a977cd",
+              "Subject": "Prepare for release v0.0.17 (#30)"
+            },
+            {
+              "SHA": "baee384",
+              "Subject": "Use Go 1.24 (#29)"
+            },
+            {
+              "SHA": "f72fce6",
+              "Subject": "Disable image caching in setup-qemu action (#28)"
+            },
+            {
+              "SHA": "feadeef",
+              "Subject": "Update github action modules (#27)"
             }
           ]
         }

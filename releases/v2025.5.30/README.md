@@ -22,3 +22,14 @@
 
 
 
+## [voyagermesh/cli](https://github.com/voyagermesh/cli)
+
+### [v0.0.17](https://github.com/voyagermesh/cli/releases/tag/v0.0.17)
+
+- [1a977cd](https://github.com/voyagermesh/cli/commit/1a977cd) Prepare for release v0.0.17 (#30)
+- [baee384](https://github.com/voyagermesh/cli/commit/baee384) Use Go 1.24 (#29)
+- [f72fce6](https://github.com/voyagermesh/cli/commit/f72fce6) Disable image caching in setup-qemu action (#28)
+- [feadeef](https://github.com/voyagermesh/cli/commit/feadeef) Update github action modules (#27)
+
+
+
