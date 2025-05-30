@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2025.5.30",
-  "release_date": "2025-05-29T23:51:54.528012539Z",
+  "release_date": "2025-05-30T00:15:24.642141438Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -157,6 +157,40 @@
             {
               "SHA": "94d2eafd",
               "Subject": "Use k8s 1.32 client libs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2025.5.30",
+          "commits": [
+            {
+              "SHA": "9d81753",
+              "Subject": "Prepare for release v2025.5.30 (#1639)"
+            },
+            {
+              "SHA": "1386dc9",
+              "Subject": "Test against k8s 1.32 (#1638)"
+            },
+            {
+              "SHA": "95bff76",
+              "Subject": "Use Go 1.24 (#1637)"
+            },
+            {
+              "SHA": "0ded602",
+              "Subject": "Update github action modules (#1636)"
+            },
+            {
+              "SHA": "5b6662d",
+              "Subject": "Use kind v0.25.0 (#1635)"
+            },
+            {
+              "SHA": "4094835",
+              "Subject": "Use KIND v0.24.0 (#1634)"
             }
           ]
         }

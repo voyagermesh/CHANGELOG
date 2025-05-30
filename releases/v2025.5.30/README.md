@@ -1,4 +1,4 @@
-# Voyager v2025.5.30 (2025-05-29)
+# Voyager v2025.5.30 (2025-05-30)
 
 
 ## [voyagermesh/apimachinery](https://github.com/voyagermesh/apimachinery)
@@ -55,6 +55,19 @@
 
 - [c5f041f9](https://github.com/voyagermesh/installer/commit/c5f041f9) Prepare for release v2025.5.30 (#176)
 - [94d2eafd](https://github.com/voyagermesh/installer/commit/94d2eafd) Use k8s 1.32 client libs
+
+
+
+## [voyagermesh/voyager](https://github.com/voyagermesh/voyager)
+
+### [v2025.5.30](https://github.com/voyagermesh/voyager/releases/tag/v2025.5.30)
+
+- [9d81753](https://github.com/voyagermesh/voyager/commit/9d81753) Prepare for release v2025.5.30 (#1639)
+- [1386dc9](https://github.com/voyagermesh/voyager/commit/1386dc9) Test against k8s 1.32 (#1638)
+- [95bff76](https://github.com/voyagermesh/voyager/commit/95bff76) Use Go 1.24 (#1637)
+- [0ded602](https://github.com/voyagermesh/voyager/commit/0ded602) Update github action modules (#1636)
+- [5b6662d](https://github.com/voyagermesh/voyager/commit/5b6662d) Use kind v0.25.0 (#1635)
+- [4094835](https://github.com/voyagermesh/voyager/commit/4094835) Use KIND v0.24.0 (#1634)
 
 
 
