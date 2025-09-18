@@ -1,0 +1,148 @@
+{
+  "product_line": "Voyager",
+  "release": "v2025.9.19",
+  "release_date": "2025-09-18T19:06:27.074676456Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2025.9.19",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "3af07a166",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "dc2062f74",
+              "Subject": "Test against k8s 1.34 (#65)"
+            },
+            {
+              "SHA": "93f380017",
+              "Subject": "Use Go 1.25 (#64)"
+            },
+            {
+              "SHA": "e8b7b6703",
+              "Subject": "Test against k8s 1.33.2 (#63)"
+            },
+            {
+              "SHA": "d882173bc",
+              "Subject": "Test against k8s 1.33.2 (#62)"
+            },
+            {
+              "SHA": "b07639e34",
+              "Subject": "Test against k8s 1.33 (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.0.18",
+          "commits": [
+            {
+              "SHA": "d2b6c79",
+              "Subject": "Prepare for release v0.0.18 (#32)"
+            },
+            {
+              "SHA": "24dacfc",
+              "Subject": "Use Go 1.25 (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v17.4.0",
+          "commits": [
+            {
+              "SHA": "ea52ab6ee",
+              "Subject": "Prepare for release v17.4.0 (#109)"
+            },
+            {
+              "SHA": "76a18da42",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "80a39de7c",
+              "Subject": "Test against k8s 1.34 (#108)"
+            },
+            {
+              "SHA": "1acd1aa37",
+              "Subject": "Use Go 1.25 (#106)"
+            },
+            {
+              "SHA": "27974ffa0",
+              "Subject": "Test against k8s 1.33.2 (#104)"
+            },
+            {
+              "SHA": "0232b7dd8",
+              "Subject": "Test against k8s 1.33 (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2025.9.19",
+          "commits": [
+            {
+              "SHA": "1abdfb32",
+              "Subject": "Prepare for release v2025.9.19 (#187)"
+            },
+            {
+              "SHA": "3368908a",
+              "Subject": "Test against k8s 1.34 (#184)"
+            },
+            {
+              "SHA": "579f372f",
+              "Subject": "Use Go 1.25 (#183)"
+            },
+            {
+              "SHA": "ab1f844f",
+              "Subject": "Test against k8s 1.33.2 (#181)"
+            },
+            {
+              "SHA": "acf65424",
+              "Subject": "Test against k8s 1.33 (#180)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2025.9.19",
+          "commits": [
+            {
+              "SHA": "77f55ee",
+              "Subject": "Prepare for release v2025.9.19 (#1642)"
+            },
+            {
+              "SHA": "60a6179",
+              "Subject": "Use Go 1.25 (#1641)"
+            },
+            {
+              "SHA": "8f1ce43",
+              "Subject": "Test against k8s 1.33 (#1640)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
