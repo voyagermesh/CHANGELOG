@@ -36,3 +36,15 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2025.9.19](https://github.com/voyagermesh/installer/releases/tag/v2025.9.19)
+
+- [1abdfb32](https://github.com/voyagermesh/installer/commit/1abdfb32) Prepare for release v2025.9.19 (#187)
+- [3368908a](https://github.com/voyagermesh/installer/commit/3368908a) Test against k8s 1.34 (#184)
+- [579f372f](https://github.com/voyagermesh/installer/commit/579f372f) Use Go 1.25 (#183)
+- [ab1f844f](https://github.com/voyagermesh/installer/commit/ab1f844f) Test against k8s 1.33.2 (#181)
+- [acf65424](https://github.com/voyagermesh/installer/commit/acf65424) Test against k8s 1.33 (#180)
+
+
+
