@@ -23,3 +23,16 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v17.4.0](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v17.4.0)
+
+- [ea52ab6e](https://github.com/voyagermesh/haproxy-ingress/commit/ea52ab6ee) Prepare for release v17.4.0 (#109)
+- [76a18da4](https://github.com/voyagermesh/haproxy-ingress/commit/76a18da42) Update deps
+- [80a39de7](https://github.com/voyagermesh/haproxy-ingress/commit/80a39de7c) Test against k8s 1.34 (#108)
+- [1acd1aa3](https://github.com/voyagermesh/haproxy-ingress/commit/1acd1aa37) Use Go 1.25 (#106)
+- [27974ffa](https://github.com/voyagermesh/haproxy-ingress/commit/27974ffa0) Test against k8s 1.33.2 (#104)
+- [0232b7dd](https://github.com/voyagermesh/haproxy-ingress/commit/0232b7dd8) Test against k8s 1.33 (#103)
+
+
+
