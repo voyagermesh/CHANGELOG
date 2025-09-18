@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2025.9.19",
-  "release_date": "2025-09-18T18:37:21.121577956Z",
+  "release_date": "2025-09-18T19:06:27.074676456Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2025.9.19",
   "kubernetes_version": "1.26+",
@@ -117,6 +117,28 @@
             {
               "SHA": "acf65424",
               "Subject": "Test against k8s 1.33 (#180)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2025.9.19",
+          "commits": [
+            {
+              "SHA": "77f55ee",
+              "Subject": "Prepare for release v2025.9.19 (#1642)"
+            },
+            {
+              "SHA": "60a6179",
+              "Subject": "Use Go 1.25 (#1641)"
+            },
+            {
+              "SHA": "8f1ce43",
+              "Subject": "Test against k8s 1.33 (#1640)"
             }
           ]
         }

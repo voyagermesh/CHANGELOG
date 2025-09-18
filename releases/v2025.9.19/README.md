@@ -48,3 +48,13 @@
 
 
 
+## [voyagermesh/voyager](https://github.com/voyagermesh/voyager)
+
+### [v2025.9.19](https://github.com/voyagermesh/voyager/releases/tag/v2025.9.19)
+
+- [77f55ee](https://github.com/voyagermesh/voyager/commit/77f55ee) Prepare for release v2025.9.19 (#1642)
+- [60a6179](https://github.com/voyagermesh/voyager/commit/60a6179) Use Go 1.25 (#1641)
+- [8f1ce43](https://github.com/voyagermesh/voyager/commit/8f1ce43) Test against k8s 1.33 (#1640)
+
+
+
