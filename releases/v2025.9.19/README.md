@@ -14,3 +14,12 @@
 
 
 
+## [voyagermesh/cli](https://github.com/voyagermesh/cli)
+
+### [v0.0.18](https://github.com/voyagermesh/cli/releases/tag/v0.0.18)
+
+- [d2b6c79](https://github.com/voyagermesh/cli/commit/d2b6c79) Prepare for release v0.0.18 (#32)
+- [24dacfc](https://github.com/voyagermesh/cli/commit/24dacfc) Use Go 1.25 (#31)
+
+
+
