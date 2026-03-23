@@ -12,6 +12,15 @@
 
 
 
+## [voyagermesh/cli](https://github.com/voyagermesh/cli)
+
+### [v0.1.0](https://github.com/voyagermesh/cli/releases/tag/v0.1.0)
+
+- [5e1ffd8](https://github.com/voyagermesh/cli/commit/5e1ffd8) Prepare for release v0.1.0 (#34)
+- [945cad6](https://github.com/voyagermesh/cli/commit/945cad6) Use k8s 1.34 client libs (#33)
+
+
+
 ## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
 
 ### [v17.5.0](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v17.5.0)
