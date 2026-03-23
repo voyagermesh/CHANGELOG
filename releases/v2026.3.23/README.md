@@ -34,3 +34,14 @@
 
 
 
+## [voyagermesh/installer](https://github.com/voyagermesh/installer)
+
+### [v2026.3.23](https://github.com/voyagermesh/installer/releases/tag/v2026.3.23)
+
+- [e8f3f62d](https://github.com/voyagermesh/installer/commit/e8f3f62d) Prepare for release v2026.3.23 (#209)
+- [34ef773f](https://github.com/voyagermesh/installer/commit/34ef773f) Update HAProxy image tag to 3.3-alpine (#208)
+- [b1e194e7](https://github.com/voyagermesh/installer/commit/b1e194e7) Add endpointslices permission to voyager ClusterRole (#207)
+- [e57be1d7](https://github.com/voyagermesh/installer/commit/e57be1d7) Cleanup CVEs
+
+
+

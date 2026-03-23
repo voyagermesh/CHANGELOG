@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2026.3.23",
-  "release_date": "2026-03-23T06:05:42.567348816Z",
+  "release_date": "2026-03-23T06:19:32.353775374Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2026.3.23",
   "kubernetes_version": "1.28+",
@@ -79,6 +79,32 @@
             {
               "SHA": "4cc59382f",
               "Subject": "Test against k8s 1.35 (#112)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2026.3.23",
+          "commits": [
+            {
+              "SHA": "e8f3f62d",
+              "Subject": "Prepare for release v2026.3.23 (#209)"
+            },
+            {
+              "SHA": "34ef773f",
+              "Subject": "Update HAProxy image tag to 3.3-alpine (#208)"
+            },
+            {
+              "SHA": "b1e194e7",
+              "Subject": "Add endpointslices permission to voyager ClusterRole (#207)"
+            },
+            {
+              "SHA": "e57be1d7",
+              "Subject": "Cleanup CVEs"
             }
           ]
         }
