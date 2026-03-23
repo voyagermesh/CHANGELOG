@@ -12,3 +12,16 @@
 
 
 
+## [voyagermesh/haproxy-ingress](https://github.com/voyagermesh/haproxy-ingress)
+
+### [v17.5.0](https://github.com/voyagermesh/haproxy-ingress/releases/tag/v17.5.0)
+
+- [596c8538](https://github.com/voyagermesh/haproxy-ingress/commit/596c85386) Prepare for release v17.5.0 (#119)
+- [9212346e](https://github.com/voyagermesh/haproxy-ingress/commit/9212346eb) Replace Endpoints with EndpointSlice (#118)
+- [7cd06613](https://github.com/voyagermesh/haproxy-ingress/commit/7cd066136) Clean up CVEs
+- [c616921d](https://github.com/voyagermesh/haproxy-ingress/commit/c616921db) Pin trivy version
+- [b0399fe2](https://github.com/voyagermesh/haproxy-ingress/commit/b0399fe26) Use k8s 1.34 client libs (#113)
+- [4cc59382](https://github.com/voyagermesh/haproxy-ingress/commit/4cc59382f) Test against k8s 1.35 (#112)
+
+
+

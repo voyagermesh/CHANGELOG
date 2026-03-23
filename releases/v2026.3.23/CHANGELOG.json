@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2026.3.23",
-  "release_date": "2026-03-23T05:58:39.825521357Z",
+  "release_date": "2026-03-23T06:05:09.555785879Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2026.3.23",
   "kubernetes_version": "1.28+",
@@ -27,6 +27,40 @@
             {
               "SHA": "9ea045724",
               "Subject": "Use golanglint-ci 2.x"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v17.5.0",
+          "commits": [
+            {
+              "SHA": "596c85386",
+              "Subject": "Prepare for release v17.5.0 (#119)"
+            },
+            {
+              "SHA": "9212346eb",
+              "Subject": "Replace Endpoints with EndpointSlice (#118)"
+            },
+            {
+              "SHA": "7cd066136",
+              "Subject": "Clean up CVEs"
+            },
+            {
+              "SHA": "c616921db",
+              "Subject": "Pin trivy version"
+            },
+            {
+              "SHA": "b0399fe26",
+              "Subject": "Use k8s 1.34 client libs (#113)"
+            },
+            {
+              "SHA": "4cc59382f",
+              "Subject": "Test against k8s 1.35 (#112)"
             }
           ]
         }
