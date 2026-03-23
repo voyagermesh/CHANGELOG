@@ -45,3 +45,12 @@
 
 
 
+## [voyagermesh/voyager](https://github.com/voyagermesh/voyager)
+
+### [v2026.3.23](https://github.com/voyagermesh/voyager/releases/tag/v2026.3.23)
+
+- [b59d8fe](https://github.com/voyagermesh/voyager/commit/b59d8fe) Prepare for release v2026.3.23 (#1644)
+- [ca95cd5](https://github.com/voyagermesh/voyager/commit/ca95cd5) Test against k8s 1.35 (#1643)
+
+
+

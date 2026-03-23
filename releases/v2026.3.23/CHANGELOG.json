@@ -1,7 +1,7 @@
 {
   "product_line": "Voyager",
   "release": "v2026.3.23",
-  "release_date": "2026-03-23T06:19:32.353775374Z",
+  "release_date": "2026-03-23T06:41:41.953630232Z",
   "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
   "docs_url": "https://voyagermesh.com/docs/v2026.3.23",
   "kubernetes_version": "1.28+",
@@ -105,6 +105,24 @@
             {
               "SHA": "e57be1d7",
               "Subject": "Cleanup CVEs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2026.3.23",
+          "commits": [
+            {
+              "SHA": "b59d8fe",
+              "Subject": "Prepare for release v2026.3.23 (#1644)"
+            },
+            {
+              "SHA": "ca95cd5",
+              "Subject": "Test against k8s 1.35 (#1643)"
             }
           ]
         }
