@@ -1,0 +1,132 @@
+{
+  "product_line": "Voyager",
+  "release": "v2026.3.23",
+  "release_date": "2026-03-23T06:41:41.953630232Z",
+  "release_project_url": "https://github.com/voyagermesh/CHANGELOG",
+  "docs_url": "https://voyagermesh.com/docs/v2026.3.23",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/voyagermesh/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "58664e1e0",
+              "Subject": "Clean up CVEs (#73)"
+            },
+            {
+              "SHA": "2f57c5d26",
+              "Subject": "Use k8s 1.34 client libs (#68)"
+            },
+            {
+              "SHA": "69dd4e6b0",
+              "Subject": "Test against k8s 1.35 (#66)"
+            },
+            {
+              "SHA": "9ea045724",
+              "Subject": "Use golanglint-ci 2.x"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/cli",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "5e1ffd8",
+              "Subject": "Prepare for release v0.1.0 (#34)"
+            },
+            {
+              "SHA": "945cad6",
+              "Subject": "Use k8s 1.34 client libs (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/haproxy-ingress",
+      "releases": [
+        {
+          "tag": "v17.5.0",
+          "commits": [
+            {
+              "SHA": "596c85386",
+              "Subject": "Prepare for release v17.5.0 (#119)"
+            },
+            {
+              "SHA": "9212346eb",
+              "Subject": "Replace Endpoints with EndpointSlice (#118)"
+            },
+            {
+              "SHA": "7cd066136",
+              "Subject": "Clean up CVEs"
+            },
+            {
+              "SHA": "c616921db",
+              "Subject": "Pin trivy version"
+            },
+            {
+              "SHA": "b0399fe26",
+              "Subject": "Use k8s 1.34 client libs (#113)"
+            },
+            {
+              "SHA": "4cc59382f",
+              "Subject": "Test against k8s 1.35 (#112)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/installer",
+      "releases": [
+        {
+          "tag": "v2026.3.23",
+          "commits": [
+            {
+              "SHA": "e8f3f62d",
+              "Subject": "Prepare for release v2026.3.23 (#209)"
+            },
+            {
+              "SHA": "34ef773f",
+              "Subject": "Update HAProxy image tag to 3.3-alpine (#208)"
+            },
+            {
+              "SHA": "b1e194e7",
+              "Subject": "Add endpointslices permission to voyager ClusterRole (#207)"
+            },
+            {
+              "SHA": "e57be1d7",
+              "Subject": "Cleanup CVEs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/voyagermesh/voyager",
+      "releases": [
+        {
+          "tag": "v2026.3.23",
+          "commits": [
+            {
+              "SHA": "b59d8fe",
+              "Subject": "Prepare for release v2026.3.23 (#1644)"
+            },
+            {
+              "SHA": "ca95cd5",
+              "Subject": "Test against k8s 1.35 (#1643)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
